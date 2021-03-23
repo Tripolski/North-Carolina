@@ -1,0 +1,3817 @@
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[15:44:15] password = ""  (string)
+[15:44:15] filterscripts = ""  (string)
+[15:44:15] weburl = "www.sa-mp.com"  (string)
+[15:44:15] 
+[15:44:15] Server Plugins
+[15:44:15] --------------
+[15:44:15]  Loading plugin: crashdetect
+[15:44:15]   CrashDetect v4.15.1 is OK.
+[15:44:15]   Loaded.
+[15:44:15]  Loading plugin: dc_cmd
+[15:44:15]   Daniel's CMD plugin v2.8
+[15:44:15]     (c) 2014 Daniel_Cortez
+[15:44:15] 	www.pro-pawn.ru
+[15:44:15]   Loaded.
+[15:44:15]  Loading plugin: streamer
+[15:44:15] 
+
+*** Streamer Plugin v2.9.2 by Incognito loaded ***
+
+[15:44:15]   Loaded.
+[15:44:15]  Loading plugin: sscanf
+[15:44:15] 
+
+[15:44:15]  ===============================
+
+[15:44:15]       sscanf plugin loaded.     
+
+[15:44:15]          Version:  2.8.1        
+
+[15:44:16]    (c) 2012 Alex "Y_Less" Cole  
+
+[15:44:16]  ===============================
+
+[15:44:16]   Loaded.
+[15:44:16]  Loading plugin: mysql
+[15:44:21]   Failed.
+[15:44:21]  Loaded 4 plugins.
+
+[15:44:21] 
+[15:44:21] Filterscripts
+[15:44:21] ---------------
+[15:44:21]   Loaded 0 filterscripts.
+
+[15:44:21] [debug] Run time error 19: "File or function is not found"
+[15:44:21] [debug]  mysql_init_options
+[15:44:21] [debug]  mysql_set_option
+[15:44:21] [debug]  mysql_connect
+[15:44:21] [debug]  mysql_tquery
+[15:44:21] [debug]  cache_get_row_count
+[15:44:21] [debug]  cache_get_field_count
+[15:44:21] [debug] Run time error 19: "File or function is not found"
+[15:44:21] [debug]  mysql_init_options
+[15:44:21] [debug]  mysql_set_option
+[15:44:21] [debug]  mysql_connect
+[15:44:21] [debug]  mysql_tquery
+[15:44:21] [debug]  cache_get_row_count
+[15:44:21] [debug]  cache_get_field_count
+[15:44:21] Script[gamemodes/new.amx]: Run time error 19: "File or function is not found"
+[15:44:21] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[15:44:40] password = ""  (string)
+[15:44:40] filterscripts = ""  (string)
+[15:44:40] weburl = "www.sa-mp.com"  (string)
+[15:44:40] 
+[15:44:40] Server Plugins
+[15:44:40] --------------
+[15:44:40]  Loading plugin: crashdetect
+[15:44:40]   CrashDetect v4.15.1 is OK.
+[15:44:40]   Loaded.
+[15:44:40]  Loading plugin: dc_cmd
+[15:44:40]   Daniel's CMD plugin v2.8
+[15:44:40]     (c) 2014 Daniel_Cortez
+[15:44:40] 	www.pro-pawn.ru
+[15:44:40]   Loaded.
+[15:44:40]  Loading plugin: streamer
+[15:44:40] 
+
+*** Streamer Plugin v2.9.2 by Incognito loaded ***
+
+[15:44:40]   Loaded.
+[15:44:40]  Loading plugin: sscanf
+[15:44:40] 
+
+[15:44:40]  ===============================
+
+[15:44:40]       sscanf plugin loaded.     
+
+[15:44:40]          Version:  2.8.1        
+
+[15:44:40]    (c) 2012 Alex "Y_Less" Cole  
+
+[15:44:40]  ===============================
+
+[15:44:40]   Loaded.
+[15:44:40]  Loading plugin: mysql
+[15:44:40]  >> plugin.mysql: R41-4 successfully loaded.
+[15:44:40]   Loaded.
+[15:44:40]  Loaded 5 plugins.
+
+[15:44:40] 
+[15:44:40] Filterscripts
+[15:44:40] ---------------
+[15:44:40]   Loaded 0 filterscripts.
+
+[15:44:40] Number of vehicle models: 0
+[15:45:14] [connection] 127.0.0.1:52348 requests connection cookie.
+[15:45:15] [connection] incoming connection: 127.0.0.1:52348 id: 0
+[15:45:15] [join] Smart_Noggano has joined the server (0:127.0.0.1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[15:46:02] password = ""  (string)
+[15:46:02] filterscripts = ""  (string)
+[15:46:02] weburl = "www.sa-mp.com"  (string)
+[15:46:02] 
+[15:46:02] Server Plugins
+[15:46:02] --------------
+[15:46:02]  Loading plugin: mysql
+[15:46:02]  >> plugin.mysql: R41-4 successfully loaded.
+[15:46:02]   Loaded.
+[15:46:02]  Loading plugin: dc_cmd
+[15:46:02]   Daniel's CMD plugin v2.8
+[15:46:02]     (c) 2014 Daniel_Cortez
+[15:46:02] 	www.pro-pawn.ru
+[15:46:02]   Loaded.
+[15:46:02]  Loading plugin: streamer
+[15:46:02] 
+
+*** Streamer Plugin v2.9.2 by Incognito loaded ***
+
+[15:46:02]   Loaded.
+[15:46:02]  Loading plugin: sscanf
+[15:46:02] 
+
+[15:46:02]  ===============================
+
+[15:46:02]       sscanf plugin loaded.     
+
+[15:46:02]          Version:  2.8.1        
+
+[15:46:02]    (c) 2012 Alex "Y_Less" Cole  
+
+[15:46:02]  ===============================
+
+[15:46:02]   Loaded.
+[15:46:02]  Loaded 4 plugins.
+
+[15:46:02] 
+[15:46:02] Filterscripts
+[15:46:02] ---------------
+[15:46:02]   Loaded 0 filterscripts.
+
+[15:46:02] Number of vehicle models: 0
+[15:46:34] [connection] 127.0.0.1:52365 requests connection cookie.
+[15:46:35] [connection] incoming connection: 127.0.0.1:52365 id: 0
+[15:46:36] [join] Smart_Noggano has joined the server (0:127.0.0.1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[15:47:59] password = ""  (string)
+[15:47:59] filterscripts = ""  (string)
+[15:47:59] weburl = "www.sa-mp.com"  (string)
+[15:47:59] 
+[15:47:59] Server Plugins
+[15:47:59] --------------
+[15:47:59]  Loading plugin: mysql
+[15:47:59]  >> plugin.mysql: R41-4 successfully loaded.
+[15:47:59]   Loaded.
+[15:47:59]  Loading plugin: dc_cmd
+[15:47:59]   Daniel's CMD plugin v2.8
+[15:47:59]     (c) 2014 Daniel_Cortez
+[15:47:59] 	www.pro-pawn.ru
+[15:47:59]   Loaded.
+[15:47:59]  Loading plugin: streamer
+[15:47:59] 
+
+*** Streamer Plugin v2.9.2 by Incognito loaded ***
+
+[15:47:59]   Loaded.
+[15:47:59]  Loading plugin: sscanf
+[15:47:59] 
+
+[15:47:59]  ===============================
+
+[15:47:59]       sscanf plugin loaded.     
+
+[15:47:59]          Version:  2.8.1        
+
+[15:47:59]    (c) 2012 Alex "Y_Less" Cole  
+
+[15:47:59]  ===============================
+
+[15:47:59]   Loaded.
+[15:47:59]  Loaded 4 plugins.
+
+[15:47:59] 
+[15:47:59] Filterscripts
+[15:47:59] ---------------
+[15:47:59]   Loaded 0 filterscripts.
+
+[15:47:59] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[15:48:43] password = ""  (string)
+[15:48:43] filterscripts = ""  (string)
+[15:48:43] weburl = "www.sa-mp.com"  (string)
+[15:48:43] 
+[15:48:43] Server Plugins
+[15:48:43] --------------
+[15:48:43]  Loading plugin: mysql
+[15:48:43]  >> plugin.mysql: R41-4 successfully loaded.
+[15:48:43]   Loaded.
+[15:48:43]  Loading plugin: dc_cmd
+[15:48:43]   Daniel's CMD plugin v2.8
+[15:48:43]     (c) 2014 Daniel_Cortez
+[15:48:43] 	www.pro-pawn.ru
+[15:48:43]   Loaded.
+[15:48:43]  Loading plugin: streamer
+[15:48:43] 
+
+*** Streamer Plugin v2.9.2 by Incognito loaded ***
+
+[15:48:43]   Loaded.
+[15:48:43]  Loading plugin: sscanf
+[15:48:43] 
+
+[15:48:43]  ===============================
+
+[15:48:43]       sscanf plugin loaded.     
+
+[15:48:43]          Version:  2.8.1        
+
+[15:48:43]    (c) 2012 Alex "Y_Less" Cole  
+
+[15:48:43]  ===============================
+
+[15:48:43]   Loaded.
+[15:48:43]  Loaded 4 plugins.
+
+[15:48:43] 
+[15:48:43] Filterscripts
+[15:48:43] ---------------
+[15:48:43]   Loaded 0 filterscripts.
+
+[15:48:43] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[15:49:04] password = ""  (string)
+[15:49:04] filterscripts = ""  (string)
+[15:49:04] weburl = "www.sa-mp.com"  (string)
+[15:49:04] 
+[15:49:04] Server Plugins
+[15:49:04] --------------
+[15:49:04]  Loading plugin: mysql
+[15:49:04]  >> plugin.mysql: R41-4 successfully loaded.
+[15:49:04]   Loaded.
+[15:49:04]  Loading plugin: dc_cmd
+[15:49:04]   Daniel's CMD plugin v2.8
+[15:49:04]     (c) 2014 Daniel_Cortez
+[15:49:04] 	www.pro-pawn.ru
+[15:49:04]   Loaded.
+[15:49:04]  Loading plugin: streamer
+[15:49:04] 
+
+*** Streamer Plugin v2.9.2 by Incognito loaded ***
+
+[15:49:04]   Loaded.
+[15:49:04]  Loading plugin: sscanf
+[15:49:04] 
+
+[15:49:04]  ===============================
+
+[15:49:04]       sscanf plugin loaded.     
+
+[15:49:04]          Version:  2.8.1        
+
+[15:49:04]    (c) 2012 Alex "Y_Less" Cole  
+
+[15:49:04]  ===============================
+
+[15:49:04]   Loaded.
+[15:49:04]  Loaded 4 plugins.
+
+[15:49:04] 
+[15:49:04] Filterscripts
+[15:49:04] ---------------
+[15:49:04]   Loaded 0 filterscripts.
+
+[15:49:04] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[15:50:08] password = ""  (string)
+[15:50:08] filterscripts = ""  (string)
+[15:50:08] weburl = "www.sa-mp.com"  (string)
+[15:50:08] 
+[15:50:08] Server Plugins
+[15:50:08] --------------
+[15:50:08]  Loading plugin: mysql
+[15:50:08]  >> plugin.mysql: R41-4 successfully loaded.
+[15:50:08]   Loaded.
+[15:50:08]  Loading plugin: dc_cmd
+[15:50:08]   Daniel's CMD plugin v2.8
+[15:50:08]     (c) 2014 Daniel_Cortez
+[15:50:08] 	www.pro-pawn.ru
+[15:50:08]   Loaded.
+[15:50:08]  Loading plugin: streamer
+[15:50:08] 
+
+*** Streamer Plugin v2.9.2 by Incognito loaded ***
+
+[15:50:08]   Loaded.
+[15:50:08]  Loading plugin: sscanf
+[15:50:08] 
+
+[15:50:08]  ===============================
+
+[15:50:08]       sscanf plugin loaded.     
+
+[15:50:08]          Version:  2.8.1        
+
+[15:50:08]    (c) 2012 Alex "Y_Less" Cole  
+
+[15:50:08]  ===============================
+
+[15:50:08]   Loaded.
+[15:50:08]  Loaded 4 plugins.
+
+[15:50:08] 
+[15:50:08] Filterscripts
+[15:50:08] ---------------
+[15:50:08]   Loaded 0 filterscripts.
+
+[15:50:08] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[15:51:39] password = ""  (string)
+[15:51:39] filterscripts = ""  (string)
+[15:51:39] weburl = "www.sa-mp.com"  (string)
+[15:51:39] 
+[15:51:39] Server Plugins
+[15:51:39] --------------
+[15:51:39]  Loading plugin: mysql
+[15:51:39]  >> plugin.mysql: R41-4 successfully loaded.
+[15:51:39]   Loaded.
+[15:51:39]  Loading plugin: dc_cmd
+[15:51:39]   Daniel's CMD plugin v2.8
+[15:51:39]     (c) 2014 Daniel_Cortez
+[15:51:39] 	www.pro-pawn.ru
+[15:51:39]   Loaded.
+[15:51:39]  Loading plugin: streamer
+[15:51:39] 
+
+*** Streamer Plugin v2.9.2 by Incognito loaded ***
+
+[15:51:39]   Loaded.
+[15:51:39]  Loading plugin: sscanf
+[15:51:39] 
+
+[15:51:39]  ===============================
+
+[15:51:39]       sscanf plugin loaded.     
+
+[15:51:39]          Version:  2.8.1        
+
+[15:51:39]    (c) 2012 Alex "Y_Less" Cole  
+
+[15:51:39]  ===============================
+
+[15:51:39]   Loaded.
+[15:51:39]  Loaded 4 plugins.
+
+[15:51:39] 
+[15:51:39] Filterscripts
+[15:51:39] ---------------
+[15:51:39]   Loaded 0 filterscripts.
+
+[15:51:39] Number of vehicle models: 0
+[15:51:47] [connection] 127.0.0.1:57891 requests connection cookie.
+[15:51:48] [connection] incoming connection: 127.0.0.1:57891 id: 0
+[15:51:48] [join] Smart_Noggano has joined the server (0:127.0.0.1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[15:57:54] password = ""  (string)
+[15:57:54] filterscripts = ""  (string)
+[15:57:54] weburl = "www.sa-mp.com"  (string)
+[15:57:54] 
+[15:57:54] Server Plugins
+[15:57:54] --------------
+[15:57:54]  Loading plugin: mysql
+[15:57:54]  >> plugin.mysql: R41-4 successfully loaded.
+[15:57:54]   Loaded.
+[15:57:54]  Loading plugin: dc_cmd
+[15:57:54]   Daniel's CMD plugin v2.8
+[15:57:54]     (c) 2014 Daniel_Cortez
+[15:57:54] 	www.pro-pawn.ru
+[15:57:54]   Loaded.
+[15:57:54]  Loading plugin: streamer
+[15:57:54] 
+
+*** Streamer Plugin v2.9.2 by Incognito loaded ***
+
+[15:57:54]   Loaded.
+[15:57:54]  Loading plugin: sscanf
+[15:57:54] 
+
+[15:57:54]  ===============================
+
+[15:57:54]       sscanf plugin loaded.     
+
+[15:57:54]          Version:  2.8.1        
+
+[15:57:54]    (c) 2012 Alex "Y_Less" Cole  
+
+[15:57:54]  ===============================
+
+[15:57:54]   Loaded.
+[15:57:54]  Loaded 4 plugins.
+
+[15:57:54] 
+[15:57:54] Filterscripts
+[15:57:54] ---------------
+[15:57:54]   Loaded 0 filterscripts.
+
+[15:57:54] Number of vehicle models: 0
+[15:58:05] [connection] 127.0.0.1:51170 requests connection cookie.
+[15:58:06] [connection] incoming connection: 127.0.0.1:51170 id: 0
+[15:58:06] [join] Smart_Noggano has joined the server (0:127.0.0.1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[15:59:09] password = ""  (string)
+[15:59:09] filterscripts = ""  (string)
+[15:59:09] weburl = "www.sa-mp.com"  (string)
+[15:59:09] 
+[15:59:09] Server Plugins
+[15:59:09] --------------
+[15:59:09]  Loading plugin: mysql
+[15:59:09]  >> plugin.mysql: R41-4 successfully loaded.
+[15:59:09]   Loaded.
+[15:59:09]  Loading plugin: dc_cmd
+[15:59:09]   Daniel's CMD plugin v2.8
+[15:59:09]     (c) 2014 Daniel_Cortez
+[15:59:09] 	www.pro-pawn.ru
+[15:59:09]   Loaded.
+[15:59:09]  Loading plugin: streamer
+[15:59:09] 
+
+*** Streamer Plugin v2.9.2 by Incognito loaded ***
+
+[15:59:09]   Loaded.
+[15:59:09]  Loading plugin: sscanf
+[15:59:09] 
+
+[15:59:09]  ===============================
+
+[15:59:09]       sscanf plugin loaded.     
+
+[15:59:09]          Version:  2.8.1        
+
+[15:59:09]    (c) 2012 Alex "Y_Less" Cole  
+
+[15:59:09]  ===============================
+
+[15:59:09]   Loaded.
+[15:59:09]  Loaded 4 plugins.
+
+[15:59:09] 
+[15:59:09] Filterscripts
+[15:59:09] ---------------
+[15:59:09]   Loaded 0 filterscripts.
+
+[15:59:09] Number of vehicle models: 0
+[15:59:21] [connection] 127.0.0.1:60827 requests connection cookie.
+[15:59:22] [connection] incoming connection: 127.0.0.1:60827 id: 0
+[15:59:22] [join] Smart_Noggano has joined the server (0:127.0.0.1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[16:54:10] password = ""  (string)
+[16:54:10] filterscripts = ""  (string)
+[16:54:10] weburl = "www.sa-mp.com"  (string)
+[16:54:10] 
+[16:54:10] Server Plugins
+[16:54:10] --------------
+[16:54:10]  Loading plugin: mysql
+[16:54:10]  >> plugin.mysql: R41-4 successfully loaded.
+[16:54:10]   Loaded.
+[16:54:10]  Loading plugin: dc_cmd
+[16:54:10]   Daniel's CMD plugin v2.8
+[16:54:10]     (c) 2014 Daniel_Cortez
+[16:54:10] 	www.pro-pawn.ru
+[16:54:10]   Loaded.
+[16:54:10]  Loading plugin: streamer
+[16:54:10] 
+
+*** Streamer Plugin v2.9.2 by Incognito loaded ***
+
+[16:54:10]   Loaded.
+[16:54:10]  Loading plugin: sscanf
+[16:54:10] 
+
+[16:54:10]  ===============================
+
+[16:54:10]       sscanf plugin loaded.     
+
+[16:54:10]          Version:  2.8.1        
+
+[16:54:10]    (c) 2012 Alex "Y_Less" Cole  
+
+[16:54:10]  ===============================
+
+[16:54:10]   Loaded.
+[16:54:10]  Loaded 4 plugins.
+
+[16:54:10] 
+[16:54:10] Filterscripts
+[16:54:10] ---------------
+[16:54:10]   Loaded 0 filterscripts.
+
+[16:54:10] Number of vehicle models: 0
+[16:54:12] [connection] 127.0.0.1:57309 requests connection cookie.
+[16:54:13] [connection] incoming connection: 127.0.0.1:57309 id: 0
+[16:54:13] [join] Smart_Noggano has joined the server (0:127.0.0.1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[17:23:45] password = ""  (string)
+[17:23:45] filterscripts = ""  (string)
+[17:23:45] weburl = "www.sa-mp.com"  (string)
+[17:23:45] 
+[17:23:45] Server Plugins
+[17:23:45] --------------
+[17:23:45]  Loading plugin: mysql
+[17:23:45]  >> plugin.mysql: R41-4 successfully loaded.
+[17:23:45]   Loaded.
+[17:23:45]  Loading plugin: dc_cmd
+[17:23:45]   Daniel's CMD plugin v2.8
+[17:23:45]     (c) 2014 Daniel_Cortez
+[17:23:45] 	www.pro-pawn.ru
+[17:23:45]   Loaded.
+[17:23:45]  Loading plugin: streamer
+[17:23:45] 
+
+*** Streamer Plugin v2.9.2 by Incognito loaded ***
+
+[17:23:45]   Loaded.
+[17:23:45]  Loading plugin: sscanf
+[17:23:45] 
+
+[17:23:45]  ===============================
+
+[17:23:45]       sscanf plugin loaded.     
+
+[17:23:45]          Version:  2.8.1        
+
+[17:23:45]    (c) 2012 Alex "Y_Less" Cole  
+
+[17:23:45]  ===============================
+
+[17:23:45]   Loaded.
+[17:23:45]  Loaded 4 plugins.
+
+[17:23:46] 
+[17:23:46] Filterscripts
+[17:23:46] ---------------
+[17:23:46]   Loaded 0 filterscripts.
+
+[17:23:46] Number of vehicle models: 0
+[17:23:53] [connection] 127.0.0.1:58058 requests connection cookie.
+[17:23:54] [connection] incoming connection: 127.0.0.1:58058 id: 0
+[17:23:54] [join] Smart_Noggano has joined the server (0:127.0.0.1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[17:47:57] password = ""  (string)
+[17:47:57] filterscripts = ""  (string)
+[17:47:57] weburl = "www.sa-mp.com"  (string)
+[17:47:57] 
+[17:47:57] Server Plugins
+[17:47:57] --------------
+[17:47:57]  Loading plugin: mysql
+[17:47:57]  >> plugin.mysql: R41-4 successfully loaded.
+[17:47:57]   Loaded.
+[17:47:57]  Loading plugin: dc_cmd
+[17:47:57]   Daniel's CMD plugin v2.8
+[17:47:57]     (c) 2014 Daniel_Cortez
+[17:47:57] 	www.pro-pawn.ru
+[17:47:57]   Loaded.
+[17:47:57]  Loading plugin: streamer
+[17:47:57] 
+
+*** Streamer Plugin v2.9.2 by Incognito loaded ***
+
+[17:47:57]   Loaded.
+[17:47:57]  Loading plugin: sscanf
+[17:47:57] 
+
+[17:47:57]  ===============================
+
+[17:47:57]       sscanf plugin loaded.     
+
+[17:47:57]          Version:  2.8.1        
+
+[17:47:57]    (c) 2012 Alex "Y_Less" Cole  
+
+[17:47:57]  ===============================
+
+[17:47:57]   Loaded.
+[17:47:57]  Loaded 4 plugins.
+
+[17:47:57] 
+[17:47:57] Filterscripts
+[17:47:57] ---------------
+[17:47:57]   Loaded 0 filterscripts.
+
+[17:47:57] Number of vehicle models: 0
+[17:48:12] [connection] 127.0.0.1:58059 requests connection cookie.
+[17:48:13] [connection] incoming connection: 127.0.0.1:58059 id: 0
+[17:48:13] [join] Smart_Noggano has joined the server (0:127.0.0.1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[17:48:50] password = ""  (string)
+[17:48:50] filterscripts = ""  (string)
+[17:48:50] weburl = "www.sa-mp.com"  (string)
+[17:48:50] 
+[17:48:50] Server Plugins
+[17:48:50] --------------
+[17:48:50]  Loading plugin: mysql
+[17:48:50]  >> plugin.mysql: R41-4 successfully loaded.
+[17:48:50]   Loaded.
+[17:48:50]  Loading plugin: dc_cmd
+[17:48:50]   Daniel's CMD plugin v2.8
+[17:48:50]     (c) 2014 Daniel_Cortez
+[17:48:50] 	www.pro-pawn.ru
+[17:48:50]   Loaded.
+[17:48:50]  Loading plugin: streamer
+[17:48:50] 
+
+*** Streamer Plugin v2.9.2 by Incognito loaded ***
+
+[17:48:50]   Loaded.
+[17:48:50]  Loading plugin: sscanf
+[17:48:50] 
+
+[17:48:50]  ===============================
+
+[17:48:50]       sscanf plugin loaded.     
+
+[17:48:50]          Version:  2.8.1        
+
+[17:48:50]    (c) 2012 Alex "Y_Less" Cole  
+
+[17:48:50]  ===============================
+
+[17:48:50]   Loaded.
+[17:48:50]  Loaded 4 plugins.
+
+[17:48:50] 
+[17:48:50] Filterscripts
+[17:48:50] ---------------
+[17:48:50]   Loaded 0 filterscripts.
+
+[17:48:50] Number of vehicle models: 0
+[17:49:03] [connection] 127.0.0.1:58060 requests connection cookie.
+[17:49:04] [connection] incoming connection: 127.0.0.1:58060 id: 0
+[17:49:04] [join] Smart_Noggano has joined the server (0:127.0.0.1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[17:53:55] password = ""  (string)
+[17:53:55] filterscripts = ""  (string)
+[17:53:55] weburl = "www.sa-mp.com"  (string)
+[17:53:55] 
+[17:53:55] Server Plugins
+[17:53:55] --------------
+[17:53:55]  Loading plugin: mysql
+[17:53:55]  >> plugin.mysql: R41-4 successfully loaded.
+[17:53:55]   Loaded.
+[17:53:55]  Loading plugin: dc_cmd
+[17:53:55]   Daniel's CMD plugin v2.8
+[17:53:55]     (c) 2014 Daniel_Cortez
+[17:53:55] 	www.pro-pawn.ru
+[17:53:55]   Loaded.
+[17:53:55]  Loading plugin: streamer
+[17:53:55] 
+
+*** Streamer Plugin v2.9.2 by Incognito loaded ***
+
+[17:53:55]   Loaded.
+[17:53:55]  Loading plugin: sscanf
+[17:53:55] 
+
+[17:53:55]  ===============================
+
+[17:53:55]       sscanf plugin loaded.     
+
+[17:53:55]          Version:  2.8.1        
+
+[17:53:55]    (c) 2012 Alex "Y_Less" Cole  
+
+[17:53:55]  ===============================
+
+[17:53:55]   Loaded.
+[17:53:55]  Loaded 4 plugins.
+
+[17:53:55] 
+[17:53:55] Filterscripts
+[17:53:55] ---------------
+[17:53:55]   Loaded 0 filterscripts.
+
+[17:53:55] Number of vehicle models: 0
+[17:54:04] [connection] 127.0.0.1:63507 requests connection cookie.
+[17:54:05] [connection] incoming connection: 127.0.0.1:63507 id: 0
+[17:54:05] [join] Smart_Noggano has joined the server (0:127.0.0.1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[18:07:40] password = ""  (string)
+[18:07:40] filterscripts = ""  (string)
+[18:07:40] weburl = "www.sa-mp.com"  (string)
+[18:07:40] 
+[18:07:40] Server Plugins
+[18:07:40] --------------
+[18:07:40]  Loading plugin: mysql
+[18:07:40]  >> plugin.mysql: R41-4 successfully loaded.
+[18:07:40]   Loaded.
+[18:07:40]  Loading plugin: dc_cmd
+[18:07:40]   Daniel's CMD plugin v2.8
+[18:07:40]     (c) 2014 Daniel_Cortez
+[18:07:40] 	www.pro-pawn.ru
+[18:07:40]   Loaded.
+[18:07:40]  Loading plugin: streamer
+[18:07:40] 
+
+*** Streamer Plugin v2.9.2 by Incognito loaded ***
+
+[18:07:40]   Loaded.
+[18:07:40]  Loading plugin: sscanf
+[18:07:40] 
+
+[18:07:40]  ===============================
+
+[18:07:40]       sscanf plugin loaded.     
+
+[18:07:40]          Version:  2.8.1        
+
+[18:07:40]    (c) 2012 Alex "Y_Less" Cole  
+
+[18:07:40]  ===============================
+
+[18:07:40]   Loaded.
+[18:07:40]  Loaded 4 plugins.
+
+[18:07:40] 
+[18:07:40] Filterscripts
+[18:07:40] ---------------
+[18:07:40]   Loaded 0 filterscripts.
+
+[18:07:40] Number of vehicle models: 0
+[18:07:53] [connection] 127.0.0.1:59799 requests connection cookie.
+[18:07:54] [connection] incoming connection: 127.0.0.1:59799 id: 0
+[18:07:54] [join] Smart_Noggano has joined the server (0:127.0.0.1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[18:08:28] password = ""  (string)
+[18:08:28] filterscripts = ""  (string)
+[18:08:28] weburl = "www.sa-mp.com"  (string)
+[18:08:28] 
+[18:08:28] Server Plugins
+[18:08:28] --------------
+[18:08:28]  Loading plugin: mysql
+[18:08:28]  >> plugin.mysql: R41-4 successfully loaded.
+[18:08:28]   Loaded.
+[18:08:28]  Loading plugin: dc_cmd
+[18:08:28]   Daniel's CMD plugin v2.8
+[18:08:28]     (c) 2014 Daniel_Cortez
+[18:08:28] 	www.pro-pawn.ru
+[18:08:28]   Loaded.
+[18:08:28]  Loading plugin: streamer
+[18:08:28] 
+
+*** Streamer Plugin v2.9.2 by Incognito loaded ***
+
+[18:08:28]   Loaded.
+[18:08:28]  Loading plugin: sscanf
+[18:08:28] 
+
+[18:08:28]  ===============================
+
+[18:08:28]       sscanf plugin loaded.     
+
+[18:08:28]          Version:  2.8.1        
+
+[18:08:28]    (c) 2012 Alex "Y_Less" Cole  
+
+[18:08:28]  ===============================
+
+[18:08:28]   Loaded.
+[18:08:28]  Loaded 4 plugins.
+
+[18:08:28] 
+[18:08:28] Filterscripts
+[18:08:28] ---------------
+[18:08:28]   Loaded 0 filterscripts.
+
+[18:08:28] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[18:08:48] password = ""  (string)
+[18:08:48] filterscripts = ""  (string)
+[18:08:48] weburl = "www.sa-mp.com"  (string)
+[18:08:48] 
+[18:08:48] Server Plugins
+[18:08:48] --------------
+[18:08:48]  Loading plugin: mysql
+[18:08:48]  >> plugin.mysql: R41-4 successfully loaded.
+[18:08:48]   Loaded.
+[18:08:48]  Loading plugin: dc_cmd
+[18:08:48]   Daniel's CMD plugin v2.8
+[18:08:48]     (c) 2014 Daniel_Cortez
+[18:08:48] 	www.pro-pawn.ru
+[18:08:48]   Loaded.
+[18:08:48]  Loading plugin: streamer
+[18:08:48] 
+
+*** Streamer Plugin v2.9.2 by Incognito loaded ***
+
+[18:08:48]   Loaded.
+[18:08:48]  Loading plugin: sscanf
+[18:08:48] 
+
+[18:08:48]  ===============================
+
+[18:08:48]       sscanf plugin loaded.     
+
+[18:08:48]          Version:  2.8.1        
+
+[18:08:48]    (c) 2012 Alex "Y_Less" Cole  
+
+[18:08:48]  ===============================
+
+[18:08:48]   Loaded.
+[18:08:48]  Loaded 4 plugins.
+
+[18:08:48] 
+[18:08:48] Filterscripts
+[18:08:48] ---------------
+[18:08:48]   Loaded 0 filterscripts.
+
+[18:08:48] Number of vehicle models: 0
+[18:08:54] [connection] 127.0.0.1:53370 requests connection cookie.
+[18:08:55] [connection] incoming connection: 127.0.0.1:53370 id: 0
+[18:08:55] [join] Smart_Noggano has joined the server (0:127.0.0.1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[18:09:51] password = ""  (string)
+[18:09:51] filterscripts = ""  (string)
+[18:09:51] weburl = "www.sa-mp.com"  (string)
+[18:09:51] 
+[18:09:51] Server Plugins
+[18:09:51] --------------
+[18:09:51]  Loading plugin: mysql
+[18:09:51]  >> plugin.mysql: R41-4 successfully loaded.
+[18:09:51]   Loaded.
+[18:09:51]  Loading plugin: dc_cmd
+[18:09:51]   Daniel's CMD plugin v2.8
+[18:09:51]     (c) 2014 Daniel_Cortez
+[18:09:51] 	www.pro-pawn.ru
+[18:09:51]   Loaded.
+[18:09:51]  Loading plugin: streamer
+[18:09:51] 
+
+*** Streamer Plugin v2.9.2 by Incognito loaded ***
+
+[18:09:51]   Loaded.
+[18:09:51]  Loading plugin: sscanf
+[18:09:51] 
+
+[18:09:51]  ===============================
+
+[18:09:51]       sscanf plugin loaded.     
+
+[18:09:51]          Version:  2.8.1        
+
+[18:09:51]    (c) 2012 Alex "Y_Less" Cole  
+
+[18:09:51]  ===============================
+
+[18:09:51]   Loaded.
+[18:09:51]  Loaded 4 plugins.
+
+[18:09:51] 
+[18:09:51] Filterscripts
+[18:09:51] ---------------
+[18:09:51]   Loaded 0 filterscripts.
+
+[18:09:51] Number of vehicle models: 0
+[18:10:00] [connection] 127.0.0.1:62245 requests connection cookie.
+[18:10:01] [connection] incoming connection: 127.0.0.1:62245 id: 0
+[18:10:01] [join] Smart_Noggano has joined the server (0:127.0.0.1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[18:16:45] password = ""  (string)
+[18:16:45] filterscripts = ""  (string)
+[18:16:45] weburl = "www.sa-mp.com"  (string)
+[18:16:45] 
+[18:16:45] Server Plugins
+[18:16:45] --------------
+[18:16:45]  Loading plugin: mysql
+[18:16:45]  >> plugin.mysql: R41-4 successfully loaded.
+[18:16:45]   Loaded.
+[18:16:45]  Loading plugin: dc_cmd
+[18:16:45]   Daniel's CMD plugin v2.8
+[18:16:45]     (c) 2014 Daniel_Cortez
+[18:16:45] 	www.pro-pawn.ru
+[18:16:45]   Loaded.
+[18:16:45]  Loading plugin: streamer
+[18:16:45] 
+
+*** Streamer Plugin v2.9.2 by Incognito loaded ***
+
+[18:16:45]   Loaded.
+[18:16:45]  Loading plugin: sscanf
+[18:16:45] 
+
+[18:16:45]  ===============================
+
+[18:16:45]       sscanf plugin loaded.     
+
+[18:16:45]          Version:  2.8.1        
+
+[18:16:45]    (c) 2012 Alex "Y_Less" Cole  
+
+[18:16:45]  ===============================
+
+[18:16:45]   Loaded.
+[18:16:45]  Loaded 4 plugins.
+
+[18:16:45] 
+[18:16:45] Filterscripts
+[18:16:45] ---------------
+[18:16:45]   Loaded 0 filterscripts.
+
+[18:16:45] Number of vehicle models: 0
+[18:16:58] [connection] 127.0.0.1:53466 requests connection cookie.
+[18:16:59] [connection] incoming connection: 127.0.0.1:53466 id: 0
+[18:17:00] [join] Smart_Noggano has joined the server (0:127.0.0.1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[18:19:45] password = ""  (string)
+[18:19:45] filterscripts = ""  (string)
+[18:19:45] weburl = "www.sa-mp.com"  (string)
+[18:19:45] 
+[18:19:45] Server Plugins
+[18:19:45] --------------
+[18:19:45]  Loading plugin: mysql
+[18:19:45]  >> plugin.mysql: R41-4 successfully loaded.
+[18:19:45]   Loaded.
+[18:19:45]  Loading plugin: dc_cmd
+[18:19:45]   Daniel's CMD plugin v2.8
+[18:19:45]     (c) 2014 Daniel_Cortez
+[18:19:45] 	www.pro-pawn.ru
+[18:19:45]   Loaded.
+[18:19:45]  Loading plugin: streamer
+[18:19:45] 
+
+*** Streamer Plugin v2.9.2 by Incognito loaded ***
+
+[18:19:45]   Loaded.
+[18:19:45]  Loading plugin: sscanf
+[18:19:45] 
+
+[18:19:45]  ===============================
+
+[18:19:45]       sscanf plugin loaded.     
+
+[18:19:45]          Version:  2.8.1        
+
+[18:19:45]    (c) 2012 Alex "Y_Less" Cole  
+
+[18:19:45]  ===============================
+
+[18:19:45]   Loaded.
+[18:19:45]  Loaded 4 plugins.
+
+[18:19:45] 
+[18:19:45] Filterscripts
+[18:19:45] ---------------
+[18:19:45]   Loaded 0 filterscripts.
+
+[18:19:45] Number of vehicle models: 0
+[18:19:59] [connection] 127.0.0.1:61630 requests connection cookie.
+[18:20:00] [connection] incoming connection: 127.0.0.1:61630 id: 0
+[18:20:00] [join] Smart_Noggano has joined the server (0:127.0.0.1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[18:20:28] password = ""  (string)
+[18:20:28] filterscripts = ""  (string)
+[18:20:28] weburl = "www.sa-mp.com"  (string)
+[18:20:28] 
+[18:20:28] Server Plugins
+[18:20:28] --------------
+[18:20:28]  Loading plugin: mysql
+[18:20:28]  >> plugin.mysql: R41-4 successfully loaded.
+[18:20:28]   Loaded.
+[18:20:28]  Loading plugin: dc_cmd
+[18:20:28]   Daniel's CMD plugin v2.8
+[18:20:28]     (c) 2014 Daniel_Cortez
+[18:20:28] 	www.pro-pawn.ru
+[18:20:28]   Loaded.
+[18:20:28]  Loading plugin: streamer
+[18:20:28] 
+
+*** Streamer Plugin v2.9.2 by Incognito loaded ***
+
+[18:20:28]   Loaded.
+[18:20:28]  Loading plugin: sscanf
+[18:20:28] 
+
+[18:20:28]  ===============================
+
+[18:20:28]       sscanf plugin loaded.     
+
+[18:20:28]          Version:  2.8.1        
+
+[18:20:28]    (c) 2012 Alex "Y_Less" Cole  
+
+[18:20:28]  ===============================
+
+[18:20:28]   Loaded.
+[18:20:28]  Loaded 4 plugins.
+
+[18:20:28] 
+[18:20:28] Filterscripts
+[18:20:28] ---------------
+[18:20:28]   Loaded 0 filterscripts.
+
+[18:20:28] Number of vehicle models: 0
+[18:20:38] [connection] 127.0.0.1:61639 requests connection cookie.
+[18:20:39] [connection] incoming connection: 127.0.0.1:61639 id: 0
+[18:20:39] [join] Smart_Noggano has joined the server (0:127.0.0.1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[18:22:06] password = ""  (string)
+[18:22:06] filterscripts = ""  (string)
+[18:22:06] weburl = "www.sa-mp.com"  (string)
+[18:22:06] 
+[18:22:06] Server Plugins
+[18:22:06] --------------
+[18:22:06]  Loading plugin: mysql
+[18:22:06]  >> plugin.mysql: R41-4 successfully loaded.
+[18:22:06]   Loaded.
+[18:22:06]  Loading plugin: dc_cmd
+[18:22:06]   Daniel's CMD plugin v2.8
+[18:22:06]     (c) 2014 Daniel_Cortez
+[18:22:06] 	www.pro-pawn.ru
+[18:22:06]   Loaded.
+[18:22:06]  Loading plugin: streamer
+[18:22:06] 
+
+*** Streamer Plugin v2.9.2 by Incognito loaded ***
+
+[18:22:06]   Loaded.
+[18:22:06]  Loading plugin: sscanf
+[18:22:06] 
+
+[18:22:06]  ===============================
+
+[18:22:06]       sscanf plugin loaded.     
+
+[18:22:06]          Version:  2.8.1        
+
+[18:22:06]    (c) 2012 Alex "Y_Less" Cole  
+
+[18:22:06]  ===============================
+
+[18:22:06]   Loaded.
+[18:22:06]  Loaded 4 plugins.
+
+[18:22:06] 
+[18:22:06] Filterscripts
+[18:22:06] ---------------
+[18:22:06]   Loaded 0 filterscripts.
+
+[18:22:06] Number of vehicle models: 0
+[18:22:19] [connection] 127.0.0.1:53979 requests connection cookie.
+[18:22:20] [connection] incoming connection: 127.0.0.1:53979 id: 0
+[18:22:20] [join] Smart_Noggano has joined the server (0:127.0.0.1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[18:22:53] password = ""  (string)
+[18:22:53] filterscripts = ""  (string)
+[18:22:53] weburl = "www.sa-mp.com"  (string)
+[18:22:53] 
+[18:22:53] Server Plugins
+[18:22:53] --------------
+[18:22:53]  Loading plugin: mysql
+[18:22:53]  >> plugin.mysql: R41-4 successfully loaded.
+[18:22:53]   Loaded.
+[18:22:53]  Loading plugin: dc_cmd
+[18:22:53]   Daniel's CMD plugin v2.8
+[18:22:53]     (c) 2014 Daniel_Cortez
+[18:22:53] 	www.pro-pawn.ru
+[18:22:53]   Loaded.
+[18:22:53]  Loading plugin: streamer
+[18:22:53] 
+
+*** Streamer Plugin v2.9.2 by Incognito loaded ***
+
+[18:22:53]   Loaded.
+[18:22:53]  Loading plugin: sscanf
+[18:22:53] 
+
+[18:22:53]  ===============================
+
+[18:22:53]       sscanf plugin loaded.     
+
+[18:22:53]          Version:  2.8.1        
+
+[18:22:53]    (c) 2012 Alex "Y_Less" Cole  
+
+[18:22:53]  ===============================
+
+[18:22:53]   Loaded.
+[18:22:53]  Loaded 4 plugins.
+
+[18:22:53] 
+[18:22:53] Filterscripts
+[18:22:53] ---------------
+[18:22:53]   Loaded 0 filterscripts.
+
+[18:22:53] Number of vehicle models: 0
+[18:23:08] [connection] 127.0.0.1:54001 requests connection cookie.
+[18:23:09] [connection] incoming connection: 127.0.0.1:54001 id: 0
+[18:23:09] [join] Smart_Noggano has joined the server (0:127.0.0.1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[18:29:48] password = ""  (string)
+[18:29:48] filterscripts = ""  (string)
+[18:29:48] weburl = "www.sa-mp.com"  (string)
+[18:29:48] 
+[18:29:48] Server Plugins
+[18:29:48] --------------
+[18:29:48]  Loading plugin: mysql
+[18:29:48]  >> plugin.mysql: R41-4 successfully loaded.
+[18:29:48]   Loaded.
+[18:29:48]  Loading plugin: dc_cmd
+[18:29:48]   Daniel's CMD plugin v2.8
+[18:29:48]     (c) 2014 Daniel_Cortez
+[18:29:48] 	www.pro-pawn.ru
+[18:29:48]   Loaded.
+[18:29:48]  Loading plugin: streamer
+[18:29:48] 
+
+*** Streamer Plugin v2.9.2 by Incognito loaded ***
+
+[18:29:48]   Loaded.
+[18:29:48]  Loading plugin: sscanf
+[18:29:48] 
+
+[18:29:48]  ===============================
+
+[18:29:48]       sscanf plugin loaded.     
+
+[18:29:48]          Version:  2.8.1        
+
+[18:29:48]    (c) 2012 Alex "Y_Less" Cole  
+
+[18:29:48]  ===============================
+
+[18:29:48]   Loaded.
+[18:29:48]  Loaded 4 plugins.
+
+[18:29:48] 
+[18:29:48] Filterscripts
+[18:29:48] ---------------
+[18:29:48]   Loaded 0 filterscripts.
+
+[18:29:48] Number of vehicle models: 0
+[18:30:07] [connection] 127.0.0.1:63947 requests connection cookie.
+[18:30:08] [connection] incoming connection: 127.0.0.1:63947 id: 0
+[18:30:08] [join] Smart_Noggano has joined the server (0:127.0.0.1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[18:34:30] password = ""  (string)
+[18:34:30] filterscripts = ""  (string)
+[18:34:30] weburl = "www.sa-mp.com"  (string)
+[18:34:30] 
+[18:34:30] Server Plugins
+[18:34:30] --------------
+[18:34:30]  Loading plugin: mysql
+[18:34:30]  >> plugin.mysql: R41-4 successfully loaded.
+[18:34:30]   Loaded.
+[18:34:30]  Loading plugin: dc_cmd
+[18:34:30]   Daniel's CMD plugin v2.8
+[18:34:30]     (c) 2014 Daniel_Cortez
+[18:34:30] 	www.pro-pawn.ru
+[18:34:30]   Loaded.
+[18:34:30]  Loading plugin: streamer
+[18:34:30] 
+
+*** Streamer Plugin v2.9.2 by Incognito loaded ***
+
+[18:34:30]   Loaded.
+[18:34:30]  Loading plugin: sscanf
+[18:34:30] 
+
+[18:34:30]  ===============================
+
+[18:34:30]       sscanf plugin loaded.     
+
+[18:34:30]          Version:  2.8.1        
+
+[18:34:30]    (c) 2012 Alex "Y_Less" Cole  
+
+[18:34:30]  ===============================
+
+[18:34:30]   Loaded.
+[18:34:30]  Loaded 4 plugins.
+
+[18:34:30] 
+[18:34:30] Filterscripts
+[18:34:30] ---------------
+[18:34:30]   Loaded 0 filterscripts.
+
+[18:34:30] Number of vehicle models: 0
+[18:34:45] [connection] 127.0.0.1:52183 requests connection cookie.
+[18:34:46] [connection] incoming connection: 127.0.0.1:52183 id: 0
+[18:34:46] [join] Smart_Noggano has joined the server (0:127.0.0.1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[18:45:43] password = ""  (string)
+[18:45:43] filterscripts = ""  (string)
+[18:45:43] weburl = "www.sa-mp.com"  (string)
+[18:45:43] 
+[18:45:43] Server Plugins
+[18:45:43] --------------
+[18:45:43]  Loading plugin: mysql
+[18:45:43]  >> plugin.mysql: R41-4 successfully loaded.
+[18:45:43]   Loaded.
+[18:45:43]  Loading plugin: dc_cmd
+[18:45:43]   Daniel's CMD plugin v2.8
+[18:45:43]     (c) 2014 Daniel_Cortez
+[18:45:43] 	www.pro-pawn.ru
+[18:45:43]   Loaded.
+[18:45:43]  Loading plugin: streamer
+[18:45:43] 
+
+*** Streamer Plugin v2.9.2 by Incognito loaded ***
+
+[18:45:43]   Loaded.
+[18:45:43]  Loading plugin: sscanf
+[18:45:43] 
+
+[18:45:43]  ===============================
+
+[18:45:43]       sscanf plugin loaded.     
+
+[18:45:43]          Version:  2.8.1        
+
+[18:45:43]    (c) 2012 Alex "Y_Less" Cole  
+
+[18:45:43]  ===============================
+
+[18:45:43]   Loaded.
+[18:45:43]  Loaded 4 plugins.
+
+[18:45:43] 
+[18:45:43] Filterscripts
+[18:45:43] ---------------
+[18:45:43]   Loaded 0 filterscripts.
+
+[18:45:43] Number of vehicle models: 0
+[18:45:56] [connection] 127.0.0.1:64240 requests connection cookie.
+[18:45:57] [connection] incoming connection: 127.0.0.1:64240 id: 0
+[18:45:57] [join] Smart_Noggano has joined the server (0:127.0.0.1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[19:08:37] password = ""  (string)
+[19:08:37] filterscripts = ""  (string)
+[19:08:37] weburl = "www.sa-mp.com"  (string)
+[19:08:37] 
+[19:08:37] Server Plugins
+[19:08:37] --------------
+[19:08:37]  Loading plugin: mysql
+[19:08:37]  >> plugin.mysql: R41-4 successfully loaded.
+[19:08:37]   Loaded.
+[19:08:37]  Loading plugin: dc_cmd
+[19:08:37]   Daniel's CMD plugin v2.8
+[19:08:37]     (c) 2014 Daniel_Cortez
+[19:08:37] 	www.pro-pawn.ru
+[19:08:37]   Loaded.
+[19:08:37]  Loading plugin: streamer
+[19:08:37] 
+
+*** Streamer Plugin v2.9.2 by Incognito loaded ***
+
+[19:08:37]   Loaded.
+[19:08:37]  Loading plugin: sscanf
+[19:08:37] 
+
+[19:08:37]  ===============================
+
+[19:08:37]       sscanf plugin loaded.     
+
+[19:08:37]          Version:  2.8.1        
+
+[19:08:37]    (c) 2012 Alex "Y_Less" Cole  
+
+[19:08:37]  ===============================
+
+[19:08:37]   Loaded.
+[19:08:37]  Loaded 4 plugins.
+
+[19:08:37] 
+[19:08:37] Filterscripts
+[19:08:37] ---------------
+[19:08:37]   Loaded 0 filterscripts.
+
+[19:08:37] Number of vehicle models: 0
+[19:08:50] [connection] 127.0.0.1:57600 requests connection cookie.
+[19:08:51] [connection] incoming connection: 127.0.0.1:57600 id: 0
+[19:08:51] [join] Smart_Noggano has joined the server (0:127.0.0.1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[19:17:44] password = ""  (string)
+[19:17:44] filterscripts = ""  (string)
+[19:17:44] weburl = "www.sa-mp.com"  (string)
+[19:17:44] 
+[19:17:44] Server Plugins
+[19:17:44] --------------
+[19:17:44]  Loading plugin: mysql
+[19:17:44]  >> plugin.mysql: R41-4 successfully loaded.
+[19:17:44]   Loaded.
+[19:17:44]  Loading plugin: dc_cmd
+[19:17:44]   Daniel's CMD plugin v2.8
+[19:17:44]     (c) 2014 Daniel_Cortez
+[19:17:44] 	www.pro-pawn.ru
+[19:17:44]   Loaded.
+[19:17:44]  Loading plugin: streamer
+[19:17:44] 
+
+*** Streamer Plugin v2.9.2 by Incognito loaded ***
+
+[19:17:44]   Loaded.
+[19:17:44]  Loading plugin: sscanf
+[19:17:44] 
+
+[19:17:44]  ===============================
+
+[19:17:44]       sscanf plugin loaded.     
+
+[19:17:44]          Version:  2.8.1        
+
+[19:17:44]    (c) 2012 Alex "Y_Less" Cole  
+
+[19:17:44]  ===============================
+
+[19:17:44]   Loaded.
+[19:17:44]  Loaded 4 plugins.
+
+[19:17:44] 
+[19:17:44] Filterscripts
+[19:17:44] ---------------
+[19:17:44]   Loaded 0 filterscripts.
+
+[19:17:44] Number of vehicle models: 0
+[19:17:53] [connection] 127.0.0.1:61386 requests connection cookie.
+[19:17:54] [connection] incoming connection: 127.0.0.1:61386 id: 0
+[19:17:54] [join] Smart_Noggano has joined the server (0:127.0.0.1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[19:18:54] password = ""  (string)
+[19:18:54] filterscripts = ""  (string)
+[19:18:54] weburl = "www.sa-mp.com"  (string)
+[19:18:54] 
+[19:18:54] Server Plugins
+[19:18:54] --------------
+[19:18:54]  Loading plugin: mysql
+[19:18:54]  >> plugin.mysql: R41-4 successfully loaded.
+[19:18:54]   Loaded.
+[19:18:54]  Loading plugin: dc_cmd
+[19:18:54]   Daniel's CMD plugin v2.8
+[19:18:54]     (c) 2014 Daniel_Cortez
+[19:18:54] 	www.pro-pawn.ru
+[19:18:54]   Loaded.
+[19:18:54]  Loading plugin: streamer
+[19:18:54] 
+
+*** Streamer Plugin v2.9.2 by Incognito loaded ***
+
+[19:18:54]   Loaded.
+[19:18:54]  Loading plugin: sscanf
+[19:18:54] 
+
+[19:18:54]  ===============================
+
+[19:18:54]       sscanf plugin loaded.     
+
+[19:18:54]          Version:  2.8.1        
+
+[19:18:54]    (c) 2012 Alex "Y_Less" Cole  
+
+[19:18:54]  ===============================
+
+[19:18:54]   Loaded.
+[19:18:54]  Loaded 4 plugins.
+
+[19:18:54] 
+[19:18:54] Filterscripts
+[19:18:54] ---------------
+[19:18:54]   Loaded 0 filterscripts.
+
+[19:18:54] Number of vehicle models: 0
+[19:19:07] [connection] 127.0.0.1:61408 requests connection cookie.
+[19:19:08] [connection] incoming connection: 127.0.0.1:61408 id: 0
+[19:19:08] [join] Smart_Noggano has joined the server (0:127.0.0.1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[19:20:52] password = ""  (string)
+[19:20:52] filterscripts = ""  (string)
+[19:20:52] weburl = "www.sa-mp.com"  (string)
+[19:20:52] 
+[19:20:52] Server Plugins
+[19:20:52] --------------
+[19:20:52]  Loading plugin: mysql
+[19:20:52]  >> plugin.mysql: R41-4 successfully loaded.
+[19:20:52]   Loaded.
+[19:20:52]  Loading plugin: dc_cmd
+[19:20:53]   Daniel's CMD plugin v2.8
+[19:20:53]     (c) 2014 Daniel_Cortez
+[19:20:53] 	www.pro-pawn.ru
+[19:20:53]   Loaded.
+[19:20:53]  Loading plugin: streamer
+[19:20:53] 
+
+*** Streamer Plugin v2.9.2 by Incognito loaded ***
+
+[19:20:53]   Loaded.
+[19:20:53]  Loading plugin: sscanf
+[19:20:53] 
+
+[19:20:53]  ===============================
+
+[19:20:53]       sscanf plugin loaded.     
+
+[19:20:53]          Version:  2.8.1        
+
+[19:20:53]    (c) 2012 Alex "Y_Less" Cole  
+
+[19:20:53]  ===============================
+
+[19:20:53]   Loaded.
+[19:20:53]  Loaded 4 plugins.
+
+[19:20:53] 
+[19:20:53] Filterscripts
+[19:20:53] ---------------
+[19:20:53]   Loaded 0 filterscripts.
+
+[19:20:53] Number of vehicle models: 0
+[19:21:02] [connection] 127.0.0.1:61437 requests connection cookie.
+[19:21:03] [connection] incoming connection: 127.0.0.1:61437 id: 0
+[19:21:04] [join] Smart_Noggano has joined the server (0:127.0.0.1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[19:27:44] password = ""  (string)
+[19:27:44] filterscripts = ""  (string)
+[19:27:44] weburl = "www.sa-mp.com"  (string)
+[19:27:44] 
+[19:27:44] Server Plugins
+[19:27:44] --------------
+[19:27:44]  Loading plugin: mysql
+[19:27:44]  >> plugin.mysql: R41-4 successfully loaded.
+[19:27:44]   Loaded.
+[19:27:44]  Loading plugin: dc_cmd
+[19:27:44]   Daniel's CMD plugin v2.8
+[19:27:44]     (c) 2014 Daniel_Cortez
+[19:27:44] 	www.pro-pawn.ru
+[19:27:44]   Loaded.
+[19:27:44]  Loading plugin: streamer
+[19:27:44] 
+
+*** Streamer Plugin v2.9.2 by Incognito loaded ***
+
+[19:27:44]   Loaded.
+[19:27:44]  Loading plugin: sscanf
+[19:27:44] 
+
+[19:27:44]  ===============================
+
+[19:27:44]       sscanf plugin loaded.     
+
+[19:27:44]          Version:  2.8.1        
+
+[19:27:44]    (c) 2012 Alex "Y_Less" Cole  
+
+[19:27:44]  ===============================
+
+[19:27:44]   Loaded.
+[19:27:44]  Loaded 4 plugins.
+
+[19:27:44] 
+[19:27:44] Filterscripts
+[19:27:44] ---------------
+[19:27:44]   Loaded 0 filterscripts.
+
+[19:27:44] Number of vehicle models: 0
+[19:27:53] [connection] 127.0.0.1:50086 requests connection cookie.
+[19:27:54] [connection] incoming connection: 127.0.0.1:50086 id: 0
+[19:27:54] [join] Smart_Noggano has joined the server (0:127.0.0.1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[19:30:03] password = ""  (string)
+[19:30:03] filterscripts = ""  (string)
+[19:30:03] weburl = "www.sa-mp.com"  (string)
+[19:30:03] 
+[19:30:03] Server Plugins
+[19:30:03] --------------
+[19:30:03]  Loading plugin: mysql
+[19:30:03]  >> plugin.mysql: R41-4 successfully loaded.
+[19:30:03]   Loaded.
+[19:30:03]  Loading plugin: dc_cmd
+[19:30:03]   Daniel's CMD plugin v2.8
+[19:30:03]     (c) 2014 Daniel_Cortez
+[19:30:03] 	www.pro-pawn.ru
+[19:30:03]   Loaded.
+[19:30:03]  Loading plugin: streamer
+[19:30:03] 
+
+*** Streamer Plugin v2.9.2 by Incognito loaded ***
+
+[19:30:03]   Loaded.
+[19:30:03]  Loading plugin: sscanf
+[19:30:03] 
+
+[19:30:03]  ===============================
+
+[19:30:03]       sscanf plugin loaded.     
+
+[19:30:03]          Version:  2.8.1        
+
+[19:30:03]    (c) 2012 Alex "Y_Less" Cole  
+
+[19:30:03]  ===============================
+
+[19:30:03]   Loaded.
+[19:30:03]  Loaded 4 plugins.
+
+[19:30:03] 
+[19:30:03] Filterscripts
+[19:30:03] ---------------
+[19:30:03]   Loaded 0 filterscripts.
+
+[19:30:03] Number of vehicle models: 0
+[19:30:17] [connection] 127.0.0.1:56822 requests connection cookie.
+[19:30:18] [connection] incoming connection: 127.0.0.1:56822 id: 0
+[19:30:19] [join] Smart_Noggano has joined the server (0:127.0.0.1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[19:32:02] password = ""  (string)
+[19:32:02] filterscripts = ""  (string)
+[19:32:02] weburl = "www.sa-mp.com"  (string)
+[19:32:02] 
+[19:32:02] Server Plugins
+[19:32:02] --------------
+[19:32:02]  Loading plugin: mysql
+[19:32:02]  >> plugin.mysql: R41-4 successfully loaded.
+[19:32:02]   Loaded.
+[19:32:02]  Loading plugin: dc_cmd
+[19:32:02]   Daniel's CMD plugin v2.8
+[19:32:02]     (c) 2014 Daniel_Cortez
+[19:32:02] 	www.pro-pawn.ru
+[19:32:02]   Loaded.
+[19:32:02]  Loading plugin: streamer
+[19:32:02] 
+
+*** Streamer Plugin v2.9.2 by Incognito loaded ***
+
+[19:32:02]   Loaded.
+[19:32:02]  Loading plugin: sscanf
+[19:32:02] 
+
+[19:32:02]  ===============================
+
+[19:32:02]       sscanf plugin loaded.     
+
+[19:32:02]          Version:  2.8.1        
+
+[19:32:02]    (c) 2012 Alex "Y_Less" Cole  
+
+[19:32:02]  ===============================
+
+[19:32:02]   Loaded.
+[19:32:02]  Loaded 4 plugins.
+
+[19:32:02] 
+[19:32:02] Filterscripts
+[19:32:02] ---------------
+[19:32:02]   Loaded 0 filterscripts.
+
+[19:32:02] Number of vehicle models: 0
+[19:32:13] [connection] 127.0.0.1:56852 requests connection cookie.
+[19:32:14] [connection] incoming connection: 127.0.0.1:56852 id: 0
+[19:32:14] [join] Smart_Noggano has joined the server (0:127.0.0.1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[19:52:22] password = ""  (string)
+[19:52:22] filterscripts = ""  (string)
+[19:52:22] weburl = "www.sa-mp.com"  (string)
+[19:52:22] 
+[19:52:22] Server Plugins
+[19:52:22] --------------
+[19:52:22]  Loading plugin: mysql
+[19:52:22]  >> plugin.mysql: R41-4 successfully loaded.
+[19:52:22]   Loaded.
+[19:52:22]  Loading plugin: dc_cmd
+[19:52:22]   Daniel's CMD plugin v2.8
+[19:52:22]     (c) 2014 Daniel_Cortez
+[19:52:22] 	www.pro-pawn.ru
+[19:52:22]   Loaded.
+[19:52:22]  Loading plugin: streamer
+[19:52:22] 
+
+*** Streamer Plugin v2.9.2 by Incognito loaded ***
+
+[19:52:22]   Loaded.
+[19:52:22]  Loading plugin: sscanf
+[19:52:22] 
+
+[19:52:22]  ===============================
+
+[19:52:22]       sscanf plugin loaded.     
+
+[19:52:22]          Version:  2.8.1        
+
+[19:52:22]    (c) 2012 Alex "Y_Less" Cole  
+
+[19:52:22]  ===============================
+
+[19:52:22]   Loaded.
+[19:52:22]  Loaded 4 plugins.
+
+[19:52:22] 
+[19:52:22] Filterscripts
+[19:52:22] ---------------
+[19:52:22]   Loaded 0 filterscripts.
+
+[19:52:22] Number of vehicle models: 0
+[19:52:28] [connection] 127.0.0.1:59333 requests connection cookie.
+[19:52:29] [connection] incoming connection: 127.0.0.1:59333 id: 0
+[19:52:29] [join] Smart_Noggano has joined the server (0:127.0.0.1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[19:54:55] password = ""  (string)
+[19:54:55] filterscripts = ""  (string)
+[19:54:55] weburl = "www.sa-mp.com"  (string)
+[19:54:55] 
+[19:54:55] Server Plugins
+[19:54:55] --------------
+[19:54:55]  Loading plugin: mysql
+[19:54:56]  >> plugin.mysql: R41-4 successfully loaded.
+[19:54:56]   Loaded.
+[19:54:56]  Loading plugin: dc_cmd
+[19:54:56]   Daniel's CMD plugin v2.8
+[19:54:56]     (c) 2014 Daniel_Cortez
+[19:54:56] 	www.pro-pawn.ru
+[19:54:56]   Loaded.
+[19:54:56]  Loading plugin: streamer
+[19:54:56] 
+
+*** Streamer Plugin v2.9.2 by Incognito loaded ***
+
+[19:54:56]   Loaded.
+[19:54:56]  Loading plugin: sscanf
+[19:54:56] 
+
+[19:54:56]  ===============================
+
+[19:54:56]       sscanf plugin loaded.     
+
+[19:54:56]          Version:  2.8.1        
+
+[19:54:56]    (c) 2012 Alex "Y_Less" Cole  
+
+[19:54:56]  ===============================
+
+[19:54:56]   Loaded.
+[19:54:56]  Loaded 4 plugins.
+
+[19:54:56] 
+[19:54:56] Filterscripts
+[19:54:56] ---------------
+[19:54:56]   Loaded 0 filterscripts.
+
+[19:54:56] Number of vehicle models: 0
+[19:55:07] [connection] 127.0.0.1:59422 requests connection cookie.
+[19:55:08] [connection] incoming connection: 127.0.0.1:59422 id: 0
+[19:55:08] [join] Smart_Noggano has joined the server (0:127.0.0.1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[19:58:36] password = ""  (string)
+[19:58:36] filterscripts = ""  (string)
+[19:58:36] weburl = "www.sa-mp.com"  (string)
+[19:58:36] 
+[19:58:36] Server Plugins
+[19:58:36] --------------
+[19:58:36]  Loading plugin: mysql
+[19:58:36]  >> plugin.mysql: R41-4 successfully loaded.
+[19:58:36]   Loaded.
+[19:58:36]  Loading plugin: dc_cmd
+[19:58:36]   Daniel's CMD plugin v2.8
+[19:58:36]     (c) 2014 Daniel_Cortez
+[19:58:36] 	www.pro-pawn.ru
+[19:58:36]   Loaded.
+[19:58:36]  Loading plugin: streamer
+[19:58:36] 
+
+*** Streamer Plugin v2.9.2 by Incognito loaded ***
+
+[19:58:36]   Loaded.
+[19:58:36]  Loading plugin: sscanf
+[19:58:36] 
+
+[19:58:36]  ===============================
+
+[19:58:37]       sscanf plugin loaded.     
+
+[19:58:37]          Version:  2.8.1        
+
+[19:58:37]    (c) 2012 Alex "Y_Less" Cole  
+
+[19:58:37]  ===============================
+
+[19:58:37]   Loaded.
+[19:58:37]  Loaded 4 plugins.
+
+[19:58:37] 
+[19:58:37] Filterscripts
+[19:58:37] ---------------
+[19:58:37]   Loaded 0 filterscripts.
+
+[19:58:37] Number of vehicle models: 0
+[19:58:38] [connection] 127.0.0.1:49500 requests connection cookie.
+[19:58:39] [connection] incoming connection: 127.0.0.1:49500 id: 0
+[19:58:49] [connection] incoming connection: 127.0.0.1:49506 id: 0
+[19:58:49] [join] Smart_Noggano has joined the server (0:127.0.0.1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[19:59:21] password = ""  (string)
+[19:59:21] filterscripts = ""  (string)
+[19:59:21] weburl = "www.sa-mp.com"  (string)
+[19:59:21] 
+[19:59:21] Server Plugins
+[19:59:21] --------------
+[19:59:21]  Loading plugin: mysql
+[19:59:21]  >> plugin.mysql: R41-4 successfully loaded.
+[19:59:21]   Loaded.
+[19:59:21]  Loading plugin: dc_cmd
+[19:59:21]   Daniel's CMD plugin v2.8
+[19:59:21]     (c) 2014 Daniel_Cortez
+[19:59:21] 	www.pro-pawn.ru
+[19:59:21]   Loaded.
+[19:59:21]  Loading plugin: streamer
+[19:59:21] 
+
+*** Streamer Plugin v2.9.2 by Incognito loaded ***
+
+[19:59:21]   Loaded.
+[19:59:21]  Loading plugin: sscanf
+[19:59:21] 
+
+[19:59:21]  ===============================
+
+[19:59:21]       sscanf plugin loaded.     
+
+[19:59:21]          Version:  2.8.1        
+
+[19:59:21]    (c) 2012 Alex "Y_Less" Cole  
+
+[19:59:21]  ===============================
+
+[19:59:21]   Loaded.
+[19:59:21]  Loaded 4 plugins.
+
+[19:59:21] 
+[19:59:21] Filterscripts
+[19:59:21] ---------------
+[19:59:21]   Loaded 0 filterscripts.
+
+[19:59:21] Number of vehicle models: 0
+[19:59:35] [connection] 127.0.0.1:49532 requests connection cookie.
+[19:59:36] [connection] incoming connection: 127.0.0.1:49532 id: 0
+[19:59:36] [join] Smart_Noggano has joined the server (0:127.0.0.1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[20:10:21] password = ""  (string)
+[20:10:21] filterscripts = ""  (string)
+[20:10:21] weburl = "www.sa-mp.com"  (string)
+[20:10:21] 
+[20:10:21] Server Plugins
+[20:10:21] --------------
+[20:10:21]  Loading plugin: mysql
+[20:10:21]  >> plugin.mysql: R41-4 successfully loaded.
+[20:10:21]   Loaded.
+[20:10:21]  Loading plugin: dc_cmd
+[20:10:21]   Daniel's CMD plugin v2.8
+[20:10:21]     (c) 2014 Daniel_Cortez
+[20:10:21] 	www.pro-pawn.ru
+[20:10:21]   Loaded.
+[20:10:21]  Loading plugin: streamer
+[20:10:21] 
+
+*** Streamer Plugin v2.9.2 by Incognito loaded ***
+
+[20:10:21]   Loaded.
+[20:10:21]  Loading plugin: sscanf
+[20:10:21] 
+
+[20:10:21]  ===============================
+
+[20:10:21]       sscanf plugin loaded.     
+
+[20:10:21]          Version:  2.8.1        
+
+[20:10:21]    (c) 2012 Alex "Y_Less" Cole  
+
+[20:10:21]  ===============================
+
+[20:10:21]   Loaded.
+[20:10:21]  Loaded 4 plugins.
+
+[20:10:21] 
+[20:10:21] Filterscripts
+[20:10:21] ---------------
+[20:10:21]   Loaded 0 filterscripts.
+
+[20:10:21] Number of vehicle models: 0
+[20:10:23] [connection] 127.0.0.1:55276 requests connection cookie.
+[20:10:24] [connection] incoming connection: 127.0.0.1:55276 id: 0
+[20:10:34] [connection] incoming connection: 127.0.0.1:55280 id: 0
+[20:10:34] [join] Smart_Noggano has joined the server (0:127.0.0.1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[20:11:58] password = ""  (string)
+[20:11:58] filterscripts = ""  (string)
+[20:11:58] weburl = "www.sa-mp.com"  (string)
+[20:11:58] 
+[20:11:58] Server Plugins
+[20:11:58] --------------
+[20:11:58]  Loading plugin: mysql
+[20:11:58]  >> plugin.mysql: R41-4 successfully loaded.
+[20:11:58]   Loaded.
+[20:11:58]  Loading plugin: dc_cmd
+[20:11:58]   Daniel's CMD plugin v2.8
+[20:11:58]     (c) 2014 Daniel_Cortez
+[20:11:58] 	www.pro-pawn.ru
+[20:11:58]   Loaded.
+[20:11:58]  Loading plugin: streamer
+[20:11:58] 
+
+*** Streamer Plugin v2.9.2 by Incognito loaded ***
+
+[20:11:58]   Loaded.
+[20:11:58]  Loading plugin: sscanf
+[20:11:58] 
+
+[20:11:58]  ===============================
+
+[20:11:58]       sscanf plugin loaded.     
+
+[20:11:58]          Version:  2.8.1        
+
+[20:11:58]    (c) 2012 Alex "Y_Less" Cole  
+
+[20:11:58]  ===============================
+
+[20:11:58]   Loaded.
+[20:11:58]  Loaded 4 plugins.
+
+[20:11:58] 
+[20:11:58] Filterscripts
+[20:11:58] ---------------
+[20:11:58]   Loaded 0 filterscripts.
+
+[20:11:58] Number of vehicle models: 0
+[20:12:28] [connection] 127.0.0.1:55306 requests connection cookie.
+[20:12:29] [connection] incoming connection: 127.0.0.1:55306 id: 0
+[20:12:29] [join] Smart_Noggano has joined the server (0:127.0.0.1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[20:30:39] password = ""  (string)
+[20:30:39] filterscripts = ""  (string)
+[20:30:39] weburl = "www.sa-mp.com"  (string)
+[20:30:39] 
+[20:30:39] Server Plugins
+[20:30:39] --------------
+[20:30:39]  Loading plugin: mysql
+[20:30:39]  >> plugin.mysql: R41-4 successfully loaded.
+[20:30:39]   Loaded.
+[20:30:39]  Loading plugin: dc_cmd
+[20:30:39]   Daniel's CMD plugin v2.8
+[20:30:39]     (c) 2014 Daniel_Cortez
+[20:30:39] 	www.pro-pawn.ru
+[20:30:39]   Loaded.
+[20:30:39]  Loading plugin: streamer
+[20:30:39] 
+
+*** Streamer Plugin v2.9.2 by Incognito loaded ***
+
+[20:30:39]   Loaded.
+[20:30:39]  Loading plugin: sscanf
+[20:30:39] 
+
+[20:30:39]  ===============================
+
+[20:30:39]       sscanf plugin loaded.     
+
+[20:30:39]          Version:  2.8.1        
+
+[20:30:39]    (c) 2012 Alex "Y_Less" Cole  
+
+[20:30:39]  ===============================
+
+[20:30:39]   Loaded.
+[20:30:39]  Loaded 4 plugins.
+
+[20:30:39] 
+[20:30:39] Filterscripts
+[20:30:39] ---------------
+[20:30:39]   Loaded 0 filterscripts.
+
+[20:30:39] Number of vehicle models: 0
+[20:30:51] [connection] 127.0.0.1:59882 requests connection cookie.
+[20:30:52] [connection] incoming connection: 127.0.0.1:59882 id: 0
+[20:30:52] [join] Smart_Noggano has joined the server (0:127.0.0.1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[20:31:54] password = ""  (string)
+[20:31:54] filterscripts = ""  (string)
+[20:31:54] weburl = "www.sa-mp.com"  (string)
+[20:31:54] 
+[20:31:54] Server Plugins
+[20:31:54] --------------
+[20:31:54]  Loading plugin: mysql
+[20:31:54]  >> plugin.mysql: R41-4 successfully loaded.
+[20:31:54]   Loaded.
+[20:31:54]  Loading plugin: dc_cmd
+[20:31:54]   Daniel's CMD plugin v2.8
+[20:31:54]     (c) 2014 Daniel_Cortez
+[20:31:54] 	www.pro-pawn.ru
+[20:31:54]   Loaded.
+[20:31:54]  Loading plugin: streamer
+[20:31:54] 
+
+*** Streamer Plugin v2.9.2 by Incognito loaded ***
+
+[20:31:54]   Loaded.
+[20:31:54]  Loading plugin: sscanf
+[20:31:54] 
+
+[20:31:54]  ===============================
+
+[20:31:54]       sscanf plugin loaded.     
+
+[20:31:54]          Version:  2.8.1        
+
+[20:31:54]    (c) 2012 Alex "Y_Less" Cole  
+
+[20:31:54]  ===============================
+
+[20:31:54]   Loaded.
+[20:31:54]  Loaded 4 plugins.
+
+[20:31:54] 
+[20:31:54] Filterscripts
+[20:31:54] ---------------
+[20:31:54]   Loaded 0 filterscripts.
+
+[20:31:54] Number of vehicle models: 0
+[20:32:11] [connection] 127.0.0.1:59906 requests connection cookie.
+[20:32:12] [connection] incoming connection: 127.0.0.1:59906 id: 0
+[20:32:12] [join] Smart_Noggano has joined the server (0:127.0.0.1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[20:33:17] password = ""  (string)
+[20:33:17] filterscripts = ""  (string)
+[20:33:17] weburl = "www.sa-mp.com"  (string)
+[20:33:17] 
+[20:33:17] Server Plugins
+[20:33:17] --------------
+[20:33:17]  Loading plugin: mysql
+[20:33:17]  >> plugin.mysql: R41-4 successfully loaded.
+[20:33:17]   Loaded.
+[20:33:17]  Loading plugin: dc_cmd
+[20:33:17]   Daniel's CMD plugin v2.8
+[20:33:17]     (c) 2014 Daniel_Cortez
+[20:33:17] 	www.pro-pawn.ru
+[20:33:17]   Loaded.
+[20:33:17]  Loading plugin: streamer
+[20:33:17] 
+
+*** Streamer Plugin v2.9.2 by Incognito loaded ***
+
+[20:33:17]   Loaded.
+[20:33:17]  Loading plugin: sscanf
+[20:33:17] 
+
+[20:33:17]  ===============================
+
+[20:33:17]       sscanf plugin loaded.     
+
+[20:33:17]          Version:  2.8.1        
+
+[20:33:17]    (c) 2012 Alex "Y_Less" Cole  
+
+[20:33:17]  ===============================
+
+[20:33:17]   Loaded.
+[20:33:17]  Loaded 4 plugins.
+
+[20:33:17] 
+[20:33:17] Filterscripts
+[20:33:17] ---------------
+[20:33:17]   Loaded 0 filterscripts.
+
+[20:33:17] Number of vehicle models: 0
+[20:33:53] [connection] 127.0.0.1:59939 requests connection cookie.
+[20:33:54] [connection] incoming connection: 127.0.0.1:59939 id: 0
+[20:33:54] [join] Smart_Noggano has joined the server (0:127.0.0.1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[20:40:38] password = ""  (string)
+[20:40:38] filterscripts = ""  (string)
+[20:40:38] weburl = "www.sa-mp.com"  (string)
+[20:40:38] 
+[20:40:38] Server Plugins
+[20:40:38] --------------
+[20:40:38]  Loading plugin: mysql
+[20:40:38]  >> plugin.mysql: R41-4 successfully loaded.
+[20:40:38]   Loaded.
+[20:40:38]  Loading plugin: dc_cmd
+[20:40:38]   Daniel's CMD plugin v2.8
+[20:40:38]     (c) 2014 Daniel_Cortez
+[20:40:38] 	www.pro-pawn.ru
+[20:40:38]   Loaded.
+[20:40:38]  Loading plugin: streamer
+[20:40:38] 
+
+*** Streamer Plugin v2.9.2 by Incognito loaded ***
+
+[20:40:38]   Loaded.
+[20:40:38]  Loading plugin: sscanf
+[20:40:38] 
+
+[20:40:38]  ===============================
+
+[20:40:38]       sscanf plugin loaded.     
+
+[20:40:38]          Version:  2.8.1        
+
+[20:40:38]    (c) 2012 Alex "Y_Less" Cole  
+
+[20:40:38]  ===============================
+
+[20:40:38]   Loaded.
+[20:40:38]  Loaded 4 plugins.
+
+[20:40:38] 
+[20:40:38] Filterscripts
+[20:40:38] ---------------
+[20:40:38]   Loaded 0 filterscripts.
+
+[20:40:38] Number of vehicle models: 0
+[20:40:53] [connection] 127.0.0.1:54895 requests connection cookie.
+[20:40:54] [connection] incoming connection: 127.0.0.1:54895 id: 0
+[20:40:54] [join] Smart_Noggano has joined the server (0:127.0.0.1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[20:44:23] password = ""  (string)
+[20:44:23] filterscripts = ""  (string)
+[20:44:23] weburl = "www.sa-mp.com"  (string)
+[20:44:23] 
+[20:44:23] Server Plugins
+[20:44:23] --------------
+[20:44:23]  Loading plugin: mysql
+[20:44:23]  >> plugin.mysql: R41-4 successfully loaded.
+[20:44:23]   Loaded.
+[20:44:23]  Loading plugin: dc_cmd
+[20:44:23]   Daniel's CMD plugin v2.8
+[20:44:23]     (c) 2014 Daniel_Cortez
+[20:44:23] 	www.pro-pawn.ru
+[20:44:23]   Loaded.
+[20:44:23]  Loading plugin: streamer
+[20:44:23] 
+
+*** Streamer Plugin v2.9.2 by Incognito loaded ***
+
+[20:44:23]   Loaded.
+[20:44:23]  Loading plugin: sscanf
+[20:44:23] 
+
+[20:44:23]  ===============================
+
+[20:44:23]       sscanf plugin loaded.     
+
+[20:44:23]          Version:  2.8.1        
+
+[20:44:23]    (c) 2012 Alex "Y_Less" Cole  
+
+[20:44:23]  ===============================
+
+[20:44:23]   Loaded.
+[20:44:23]  Loaded 4 plugins.
+
+[20:44:23] 
+[20:44:23] Filterscripts
+[20:44:23] ---------------
+[20:44:23]   Loaded 0 filterscripts.
+
+[20:44:23] Number of vehicle models: 0
+[20:44:31] [connection] 127.0.0.1:52174 requests connection cookie.
+[20:44:32] [connection] incoming connection: 127.0.0.1:52174 id: 0
+[20:44:33] [join] Smart_Noggano has joined the server (0:127.0.0.1)
+[20:44:59] [part] Smart_Noggano has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[20:48:06] password = ""  (string)
+[20:48:06] filterscripts = ""  (string)
+[20:48:06] weburl = "www.sa-mp.com"  (string)
+[20:48:06] 
+[20:48:06] Server Plugins
+[20:48:06] --------------
+[20:48:06]  Loading plugin: mysql
+[20:48:06]  >> plugin.mysql: R41-4 successfully loaded.
+[20:48:06]   Loaded.
+[20:48:06]  Loading plugin: dc_cmd
+[20:48:06]   Daniel's CMD plugin v2.8
+[20:48:06]     (c) 2014 Daniel_Cortez
+[20:48:06] 	www.pro-pawn.ru
+[20:48:06]   Loaded.
+[20:48:06]  Loading plugin: streamer
+[20:48:06] 
+
+*** Streamer Plugin v2.9.2 by Incognito loaded ***
+
+[20:48:06]   Loaded.
+[20:48:06]  Loading plugin: sscanf
+[20:48:06] 
+
+[20:48:06]  ===============================
+
+[20:48:06]       sscanf plugin loaded.     
+
+[20:48:06]          Version:  2.8.1        
+
+[20:48:06]    (c) 2012 Alex "Y_Less" Cole  
+
+[20:48:06]  ===============================
+
+[20:48:06]   Loaded.
+[20:48:06]  Loaded 4 plugins.
+
+[20:48:06] 
+[20:48:06] Filterscripts
+[20:48:06] ---------------
+[20:48:06]   Loaded 0 filterscripts.
+
+[20:48:06] Number of vehicle models: 0
+[20:48:26] [connection] 127.0.0.1:57031 requests connection cookie.
+[20:48:27] [connection] incoming connection: 127.0.0.1:57031 id: 0
+[20:48:27] [join] Smart_Noggano has joined the server (0:127.0.0.1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[20:55:00] password = ""  (string)
+[20:55:00] filterscripts = ""  (string)
+[20:55:00] weburl = "www.sa-mp.com"  (string)
+[20:55:00] 
+[20:55:00] Server Plugins
+[20:55:00] --------------
+[20:55:00]  Loading plugin: mysql
+[20:55:01]  >> plugin.mysql: R41-4 successfully loaded.
+[20:55:01]   Loaded.
+[20:55:01]  Loading plugin: dc_cmd
+[20:55:01]   Daniel's CMD plugin v2.8
+[20:55:01]     (c) 2014 Daniel_Cortez
+[20:55:01] 	www.pro-pawn.ru
+[20:55:01]   Loaded.
+[20:55:01]  Loading plugin: streamer
+[20:55:01] 
+
+*** Streamer Plugin v2.9.2 by Incognito loaded ***
+
+[20:55:01]   Loaded.
+[20:55:01]  Loading plugin: sscanf
+[20:55:01] 
+
+[20:55:01]  ===============================
+
+[20:55:01]       sscanf plugin loaded.     
+
+[20:55:01]          Version:  2.8.1        
+
+[20:55:01]    (c) 2012 Alex "Y_Less" Cole  
+
+[20:55:01]  ===============================
+
+[20:55:01]   Loaded.
+[20:55:01]  Loaded 4 plugins.
+
+[20:55:01] 
+[20:55:01] Filterscripts
+[20:55:01] ---------------
+[20:55:01]   Loaded 0 filterscripts.
+
+[20:55:01] Number of vehicle models: 0
+[20:55:14] [connection] 127.0.0.1:60624 requests connection cookie.
+[20:55:15] [connection] incoming connection: 127.0.0.1:60624 id: 0
+[20:55:15] [join] Smart_Noggano has joined the server (0:127.0.0.1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[20:56:06] password = ""  (string)
+[20:56:06] filterscripts = ""  (string)
+[20:56:06] weburl = "www.sa-mp.com"  (string)
+[20:56:06] 
+[20:56:06] Server Plugins
+[20:56:06] --------------
+[20:56:06]  Loading plugin: mysql
+[20:56:06]  >> plugin.mysql: R41-4 successfully loaded.
+[20:56:06]   Loaded.
+[20:56:06]  Loading plugin: dc_cmd
+[20:56:06]   Daniel's CMD plugin v2.8
+[20:56:06]     (c) 2014 Daniel_Cortez
+[20:56:06] 	www.pro-pawn.ru
+[20:56:06]   Loaded.
+[20:56:06]  Loading plugin: streamer
+[20:56:06] 
+
+*** Streamer Plugin v2.9.2 by Incognito loaded ***
+
+[20:56:06]   Loaded.
+[20:56:06]  Loading plugin: sscanf
+[20:56:06] 
+
+[20:56:06]  ===============================
+
+[20:56:06]       sscanf plugin loaded.     
+
+[20:56:06]          Version:  2.8.1        
+
+[20:56:06]    (c) 2012 Alex "Y_Less" Cole  
+
+[20:56:06]  ===============================
+
+[20:56:06]   Loaded.
+[20:56:06]  Loaded 4 plugins.
+
+[20:56:06] 
+[20:56:06] Filterscripts
+[20:56:06] ---------------
+[20:56:06]   Loaded 0 filterscripts.
+
+[20:56:06] Number of vehicle models: 0
+[20:56:16] [connection] 127.0.0.1:60638 requests connection cookie.
+[20:56:17] [connection] incoming connection: 127.0.0.1:60638 id: 0
+[20:56:18] [join] Smart_Noggano has joined the server (0:127.0.0.1)
+[20:56:30] [part] Smart_Noggano has left the server (0:2)
+[20:57:02] [connection] 127.0.0.1:63010 requests connection cookie.
+[20:57:03] [connection] incoming connection: 127.0.0.1:63010 id: 0
+[20:57:03] [join] Smart_Noggano has joined the server (0:127.0.0.1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[20:57:28] password = ""  (string)
+[20:57:28] filterscripts = ""  (string)
+[20:57:28] weburl = "www.sa-mp.com"  (string)
+[20:57:28] 
+[20:57:28] Server Plugins
+[20:57:28] --------------
+[20:57:28]  Loading plugin: mysql
+[20:57:28]  >> plugin.mysql: R41-4 successfully loaded.
+[20:57:28]   Loaded.
+[20:57:28]  Loading plugin: dc_cmd
+[20:57:28]   Daniel's CMD plugin v2.8
+[20:57:28]     (c) 2014 Daniel_Cortez
+[20:57:28] 	www.pro-pawn.ru
+[20:57:28]   Loaded.
+[20:57:28]  Loading plugin: streamer
+[20:57:28] 
+
+*** Streamer Plugin v2.9.2 by Incognito loaded ***
+
+[20:57:28]   Loaded.
+[20:57:28]  Loading plugin: sscanf
+[20:57:28] 
+
+[20:57:28]  ===============================
+
+[20:57:28]       sscanf plugin loaded.     
+
+[20:57:28]          Version:  2.8.1        
+
+[20:57:28]    (c) 2012 Alex "Y_Less" Cole  
+
+[20:57:28]  ===============================
+
+[20:57:28]   Loaded.
+[20:57:28]  Loaded 4 plugins.
+
+[20:57:28] 
+[20:57:28] Filterscripts
+[20:57:28] ---------------
+[20:57:28]   Loaded 0 filterscripts.
+
+[20:57:28] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[20:57:55] password = ""  (string)
+[20:57:55] filterscripts = ""  (string)
+[20:57:55] weburl = "www.sa-mp.com"  (string)
+[20:57:55] 
+[20:57:55] Server Plugins
+[20:57:55] --------------
+[20:57:55]  Loading plugin: mysql
+[20:57:55]  >> plugin.mysql: R41-4 successfully loaded.
+[20:57:55]   Loaded.
+[20:57:55]  Loading plugin: dc_cmd
+[20:57:55]   Daniel's CMD plugin v2.8
+[20:57:55]     (c) 2014 Daniel_Cortez
+[20:57:55] 	www.pro-pawn.ru
+[20:57:55]   Loaded.
+[20:57:55]  Loading plugin: streamer
+[20:57:55] 
+
+*** Streamer Plugin v2.9.2 by Incognito loaded ***
+
+[20:57:56]   Loaded.
+[20:57:56]  Loading plugin: sscanf
+[20:57:56] 
+
+[20:57:56]  ===============================
+
+[20:57:56]       sscanf plugin loaded.     
+
+[20:57:56]          Version:  2.8.1        
+
+[20:57:56]    (c) 2012 Alex "Y_Less" Cole  
+
+[20:57:56]  ===============================
+
+[20:57:56]   Loaded.
+[20:57:56]  Loaded 4 plugins.
+
+[20:57:56] 
+[20:57:56] Filterscripts
+[20:57:56] ---------------
+[20:57:56]   Loaded 0 filterscripts.
+
+[20:57:56] Number of vehicle models: 0
+[20:57:57] [connection] 127.0.0.1:59310 requests connection cookie.
+[20:57:58] [connection] incoming connection: 127.0.0.1:59310 id: 0
+[20:57:58] [join] Smart_Noggano has joined the server (0:127.0.0.1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[20:59:36] password = ""  (string)
+[20:59:36] filterscripts = ""  (string)
+[20:59:36] weburl = "www.sa-mp.com"  (string)
+[20:59:36] 
+[20:59:36] Server Plugins
+[20:59:36] --------------
+[20:59:36]  Loading plugin: mysql
+[20:59:36]  >> plugin.mysql: R41-4 successfully loaded.
+[20:59:36]   Loaded.
+[20:59:36]  Loading plugin: dc_cmd
+[20:59:36]   Daniel's CMD plugin v2.8
+[20:59:36]     (c) 2014 Daniel_Cortez
+[20:59:36] 	www.pro-pawn.ru
+[20:59:36]   Loaded.
+[20:59:36]  Loading plugin: streamer
+[20:59:36] 
+
+*** Streamer Plugin v2.9.2 by Incognito loaded ***
+
+[20:59:36]   Loaded.
+[20:59:36]  Loading plugin: sscanf
+[20:59:36] 
+
+[20:59:36]  ===============================
+
+[20:59:36]       sscanf plugin loaded.     
+
+[20:59:36]          Version:  2.8.1        
+
+[20:59:36]    (c) 2012 Alex "Y_Less" Cole  
+
+[20:59:36]  ===============================
+
+[20:59:36]   Loaded.
+[20:59:36]  Loaded 4 plugins.
+
+[20:59:36] 
+[20:59:36] Filterscripts
+[20:59:36] ---------------
+[20:59:36]   Loaded 0 filterscripts.
+
+[20:59:36] Number of vehicle models: 0
+[20:59:43] [connection] 127.0.0.1:64929 requests connection cookie.
+[20:59:44] [connection] incoming connection: 127.0.0.1:64929 id: 0
+[20:59:44] [join] Smart_Noggano has joined the server (0:127.0.0.1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[21:18:11] password = ""  (string)
+[21:18:11] filterscripts = ""  (string)
+[21:18:11] weburl = "www.sa-mp.com"  (string)
+[21:18:11] 
+[21:18:11] Server Plugins
+[21:18:11] --------------
+[21:18:11]  Loading plugin: mysql
+[21:18:11]  >> plugin.mysql: R41-4 successfully loaded.
+[21:18:11]   Loaded.
+[21:18:11]  Loading plugin: dc_cmd
+[21:18:11]   Daniel's CMD plugin v2.8
+[21:18:11]     (c) 2014 Daniel_Cortez
+[21:18:11] 	www.pro-pawn.ru
+[21:18:11]   Loaded.
+[21:18:11]  Loading plugin: streamer
+[21:18:11] 
+
+*** Streamer Plugin v2.9.2 by Incognito loaded ***
+
+[21:18:11]   Loaded.
+[21:18:11]  Loading plugin: sscanf
+[21:18:11] 
+
+[21:18:11]  ===============================
+
+[21:18:11]       sscanf plugin loaded.     
+
+[21:18:11]          Version:  2.8.1        
+
+[21:18:11]    (c) 2012 Alex "Y_Less" Cole  
+
+[21:18:11]  ===============================
+
+[21:18:11]   Loaded.
+[21:18:11]  Loaded 4 plugins.
+
+[21:18:11] 
+[21:18:11] Filterscripts
+[21:18:11] ---------------
+[21:18:11]   Loaded 0 filterscripts.
+
+[21:18:11] Number of vehicle models: 0
+[21:18:23] [connection] 127.0.0.1:61164 requests connection cookie.
+[21:18:24] [connection] incoming connection: 127.0.0.1:61164 id: 0
+[21:18:25] [join] Smart_Noggano has joined the server (0:127.0.0.1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[21:18:32] password = ""  (string)
+[21:18:32] filterscripts = ""  (string)
+[21:18:32] weburl = "www.sa-mp.com"  (string)
+[21:18:32] 
+[21:18:32] Server Plugins
+[21:18:32] --------------
+[21:18:32]  Loading plugin: mysql
+[21:18:32]  >> plugin.mysql: R41-4 successfully loaded.
+[21:18:32]   Loaded.
+[21:18:32]  Loading plugin: dc_cmd
+[21:18:32]   Daniel's CMD plugin v2.8
+[21:18:32]     (c) 2014 Daniel_Cortez
+[21:18:32] 	www.pro-pawn.ru
+[21:18:32]   Loaded.
+[21:18:32]  Loading plugin: streamer
+[21:18:32] 
+
+*** Streamer Plugin v2.9.2 by Incognito loaded ***
+
+[21:18:32]   Loaded.
+[21:18:32]  Loading plugin: sscanf
+[21:18:32] 
+
+[21:18:32]  ===============================
+
+[21:18:32]       sscanf plugin loaded.     
+
+[21:18:32]          Version:  2.8.1        
+
+[21:18:32]    (c) 2012 Alex "Y_Less" Cole  
+
+[21:18:32]  ===============================
+
+[21:18:32]   Loaded.
+[21:18:32]  Loaded 4 plugins.
+
+[21:18:32] 
+[21:18:32] Filterscripts
+[21:18:32] ---------------
+[21:18:32]   Loaded 0 filterscripts.
+
+[21:18:32] Number of vehicle models: 0
+[21:18:40] [connection] 127.0.0.1:61167 requests connection cookie.
+[21:18:41] [connection] incoming connection: 127.0.0.1:61167 id: 0
+[21:18:41] [join] Smart_Noggano has joined the server (0:127.0.0.1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[21:19:11] password = ""  (string)
+[21:19:11] filterscripts = ""  (string)
+[21:19:11] weburl = "www.sa-mp.com"  (string)
+[21:19:11] 
+[21:19:11] Server Plugins
+[21:19:11] --------------
+[21:19:11]  Loading plugin: mysql
+[21:19:11]  >> plugin.mysql: R41-4 successfully loaded.
+[21:19:11]   Loaded.
+[21:19:11]  Loading plugin: dc_cmd
+[21:19:11]   Daniel's CMD plugin v2.8
+[21:19:11]     (c) 2014 Daniel_Cortez
+[21:19:11] 	www.pro-pawn.ru
+[21:19:11]   Loaded.
+[21:19:11]  Loading plugin: streamer
+[21:19:11] 
+
+*** Streamer Plugin v2.9.2 by Incognito loaded ***
+
+[21:19:11]   Loaded.
+[21:19:11]  Loading plugin: sscanf
+[21:19:11] 
+
+[21:19:11]  ===============================
+
+[21:19:11]       sscanf plugin loaded.     
+
+[21:19:11]          Version:  2.8.1        
+
+[21:19:11]    (c) 2012 Alex "Y_Less" Cole  
+
+[21:19:11]  ===============================
+
+[21:19:11]   Loaded.
+[21:19:11]  Loaded 4 plugins.
+
+[21:19:11] 
+[21:19:11] Filterscripts
+[21:19:11] ---------------
+[21:19:11]   Loaded 0 filterscripts.
+
+[21:19:11] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[21:21:02] password = ""  (string)
+[21:21:02] filterscripts = ""  (string)
+[21:21:02] weburl = "www.sa-mp.com"  (string)
+[21:21:02] 
+[21:21:02] Server Plugins
+[21:21:02] --------------
+[21:21:02]  Loading plugin: mysql
+[21:21:02]  >> plugin.mysql: R41-4 successfully loaded.
+[21:21:02]   Loaded.
+[21:21:02]  Loading plugin: dc_cmd
+[21:21:02]   Daniel's CMD plugin v2.8
+[21:21:02]     (c) 2014 Daniel_Cortez
+[21:21:02] 	www.pro-pawn.ru
+[21:21:02]   Loaded.
+[21:21:02]  Loading plugin: streamer
+[21:21:02] 
+
+*** Streamer Plugin v2.9.2 by Incognito loaded ***
+
+[21:21:02]   Loaded.
+[21:21:02]  Loading plugin: sscanf
+[21:21:02] 
+
+[21:21:02]  ===============================
+
+[21:21:02]       sscanf plugin loaded.     
+
+[21:21:02]          Version:  2.8.1        
+
+[21:21:02]    (c) 2012 Alex "Y_Less" Cole  
+
+[21:21:02]  ===============================
+
+[21:21:02]   Loaded.
+[21:21:02]  Loaded 4 plugins.
+
+[21:21:02] 
+[21:21:02] Filterscripts
+[21:21:02] ---------------
+[21:21:02]   Loaded 0 filterscripts.
+
+[21:21:02] Number of vehicle models: 0
+[21:21:03] [connection] 127.0.0.1:62863 requests connection cookie.
+[21:21:04] [connection] incoming connection: 127.0.0.1:62863 id: 0
+[21:21:05] [join] Smart_Noggano has joined the server (0:127.0.0.1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[21:23:01] password = ""  (string)
+[21:23:01] filterscripts = ""  (string)
+[21:23:01] weburl = "www.sa-mp.com"  (string)
+[21:23:01] 
+[21:23:01] Server Plugins
+[21:23:01] --------------
+[21:23:01]  Loading plugin: mysql
+[21:23:01]  >> plugin.mysql: R41-4 successfully loaded.
+[21:23:01]   Loaded.
+[21:23:01]  Loading plugin: dc_cmd
+[21:23:01]   Daniel's CMD plugin v2.8
+[21:23:01]     (c) 2014 Daniel_Cortez
+[21:23:01] 	www.pro-pawn.ru
+[21:23:01]   Loaded.
+[21:23:01]  Loading plugin: streamer
+[21:23:01] 
+
+*** Streamer Plugin v2.9.2 by Incognito loaded ***
+
+[21:23:01]   Loaded.
+[21:23:01]  Loading plugin: sscanf
+[21:23:01] 
+
+[21:23:01]  ===============================
+
+[21:23:01]       sscanf plugin loaded.     
+
+[21:23:01]          Version:  2.8.1        
+
+[21:23:01]    (c) 2012 Alex "Y_Less" Cole  
+
+[21:23:01]  ===============================
+
+[21:23:01]   Loaded.
+[21:23:01]  Loaded 4 plugins.
+
+[21:23:01] 
+[21:23:01] Filterscripts
+[21:23:01] ---------------
+[21:23:01]   Loaded 0 filterscripts.
+
+[21:23:01] Number of vehicle models: 0
+[21:23:22] [connection] 127.0.0.1:56480 requests connection cookie.
+[21:23:23] [connection] incoming connection: 127.0.0.1:56480 id: 0
+[21:23:23] [join] Smart_Noggano has joined the server (0:127.0.0.1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[21:23:53] password = ""  (string)
+[21:23:53] filterscripts = ""  (string)
+[21:23:53] weburl = "www.sa-mp.com"  (string)
+[21:23:53] 
+[21:23:53] Server Plugins
+[21:23:53] --------------
+[21:23:53]  Loading plugin: mysql
+[21:23:54]  >> plugin.mysql: R41-4 successfully loaded.
+[21:23:54]   Loaded.
+[21:23:54]  Loading plugin: dc_cmd
+[21:23:54]   Daniel's CMD plugin v2.8
+[21:23:54]     (c) 2014 Daniel_Cortez
+[21:23:54] 	www.pro-pawn.ru
+[21:23:54]   Loaded.
+[21:23:54]  Loading plugin: streamer
+[21:23:54] 
+
+*** Streamer Plugin v2.9.2 by Incognito loaded ***
+
+[21:23:54]   Loaded.
+[21:23:54]  Loading plugin: sscanf
+[21:23:54] 
+
+[21:23:54]  ===============================
+
+[21:23:54]       sscanf plugin loaded.     
+
+[21:23:54]          Version:  2.8.1        
+
+[21:23:54]    (c) 2012 Alex "Y_Less" Cole  
+
+[21:23:54]  ===============================
+
+[21:23:54]   Loaded.
+[21:23:54]  Loaded 4 plugins.
+
+[21:23:54] 
+[21:23:54] Filterscripts
+[21:23:54] ---------------
+[21:23:54]   Loaded 0 filterscripts.
+
+[21:23:54] Number of vehicle models: 0
+[21:24:09] [connection] 127.0.0.1:56490 requests connection cookie.
+[21:24:10] [connection] incoming connection: 127.0.0.1:56490 id: 0
+[21:24:10] [join] Smart_Noggano has joined the server (0:127.0.0.1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[21:29:32] password = ""  (string)
+[21:29:32] filterscripts = ""  (string)
+[21:29:32] weburl = "www.sa-mp.com"  (string)
+[21:29:32] 
+[21:29:32] Server Plugins
+[21:29:32] --------------
+[21:29:32]  Loading plugin: mysql
+[21:29:32]  >> plugin.mysql: R41-4 successfully loaded.
+[21:29:32]   Loaded.
+[21:29:32]  Loading plugin: dc_cmd
+[21:29:32]   Daniel's CMD plugin v2.8
+[21:29:32]     (c) 2014 Daniel_Cortez
+[21:29:32] 	www.pro-pawn.ru
+[21:29:32]   Loaded.
+[21:29:32]  Loading plugin: streamer
+[21:29:32] 
+
+*** Streamer Plugin v2.9.2 by Incognito loaded ***
+
+[21:29:32]   Loaded.
+[21:29:32]  Loading plugin: sscanf
+[21:29:32] 
+
+[21:29:32]  ===============================
+
+[21:29:32]       sscanf plugin loaded.     
+
+[21:29:32]          Version:  2.8.1        
+
+[21:29:32]    (c) 2012 Alex "Y_Less" Cole  
+
+[21:29:32]  ===============================
+
+[21:29:32]   Loaded.
+[21:29:32]  Loaded 4 plugins.
+
+[21:29:32] 
+[21:29:32] Filterscripts
+[21:29:32] ---------------
+[21:29:32]   Loaded 0 filterscripts.
+
+[21:29:32] Number of vehicle models: 0
+[21:29:42] [connection] 127.0.0.1:54928 requests connection cookie.
+[21:29:43] [connection] incoming connection: 127.0.0.1:54928 id: 0
+[21:29:44] [join] Smart_Noggano has joined the server (0:127.0.0.1)
+[21:30:16] [part] Smart_Noggano has left the server (0:1)
+[21:30:35] [connection] 127.0.0.1:54949 requests connection cookie.
+[21:30:36] [connection] incoming connection: 127.0.0.1:54949 id: 0
+[21:30:37] [join] Smart_Noggano has joined the server (0:127.0.0.1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[22:06:15] filterscripts = ""  (string)
+[22:06:15] weburl = "www.sa-mp.com"  (string)
+[22:06:15] 
+[22:06:15] Server Plugins
+[22:06:15] --------------
+[22:06:15]  Loading plugin: mysql.so
+[22:06:16]   Failed.
+[22:06:16]  Loading plugin: dc_cmd.so
+[22:06:16]   Failed.
+[22:06:16]  Loading plugin: streamer.so
+[22:06:16]   Failed.
+[22:06:16]  Loading plugin: sscanf.so
+[22:06:16]   Failed.
+[22:06:16]  Loaded 0 plugins.
+
+[22:06:16] Unable to start server on 149.202.65.205:1155. Port in use?
+[22:06:16] 
+[22:06:16] Filterscripts
+[22:06:16] ---------------
+[22:06:16]   Loaded 0 filterscripts.
+
+[22:06:16] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[09:38:39] filterscripts = ""  (string)
+[09:38:39] weburl = "www.sa-mp.com"  (string)
+[09:38:39] 
+[09:38:39] Server Plugins
+[09:38:39] --------------
+[09:38:39]  Loading plugin: mysql
+[09:38:39]  >> plugin.mysql: R41-4 successfully loaded.
+[09:38:39]   Loaded.
+[09:38:39]  Loading plugin: dc_cmd
+[09:38:39]   Daniel's CMD plugin v2.8
+[09:38:39]     (c) 2014 Daniel_Cortez
+[09:38:39] 	www.pro-pawn.ru
+[09:38:39]   Loaded.
+[09:38:39]  Loading plugin: streamer
+[09:38:39] 
+
+*** Streamer Plugin v2.9.2 by Incognito loaded ***
+
+[09:38:39]   Loaded.
+[09:38:39]  Loading plugin: sscanf
+[09:38:39] 
+
+[09:38:39]  ===============================
+
+[09:38:39]       sscanf plugin loaded.     
+
+[09:38:39]          Version:  2.8.1        
+
+[09:38:39]    (c) 2012 Alex "Y_Less" Cole  
+
+[09:38:39]  ===============================
+
+[09:38:39]   Loaded.
+[09:38:39]  Loaded 4 plugins.
+
+[09:38:39] 
+[09:38:39] Filterscripts
+[09:38:39] ---------------
+[09:38:39]   Loaded 0 filterscripts.
+
+[09:38:39] Number of vehicle models: 1
+[09:39:23] [connection] 127.0.0.1:51207 requests connection cookie.
+[09:39:24] [connection] incoming connection: 127.0.0.1:51207 id: 0
+[09:39:25] [join] Smart_Noggano has joined the server (0:127.0.0.1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[09:42:06] filterscripts = ""  (string)
+[09:42:06] weburl = "www.sa-mp.com"  (string)
+[09:42:06] 
+[09:42:06] Server Plugins
+[09:42:06] --------------
+[09:42:06]  Loading plugin: mysql
+[09:42:06]  >> plugin.mysql: R41-4 successfully loaded.
+[09:42:06]   Loaded.
+[09:42:06]  Loading plugin: dc_cmd
+[09:42:06]   Daniel's CMD plugin v2.8
+[09:42:06]     (c) 2014 Daniel_Cortez
+[09:42:06] 	www.pro-pawn.ru
+[09:42:06]   Loaded.
+[09:42:06]  Loading plugin: streamer
+[09:42:06] 
+
+*** Streamer Plugin v2.9.2 by Incognito loaded ***
+
+[09:42:06]   Loaded.
+[09:42:06]  Loading plugin: sscanf
+[09:42:06] 
+
+[09:42:06]  ===============================
+
+[09:42:06]       sscanf plugin loaded.     
+
+[09:42:06]          Version:  2.8.1        
+
+[09:42:06]    (c) 2012 Alex "Y_Less" Cole  
+
+[09:42:06]  ===============================
+
+[09:42:06]   Loaded.
+[09:42:06]  Loaded 4 plugins.
+
+[09:42:06] 
+[09:42:06] Filterscripts
+[09:42:06] ---------------
+[09:42:06]   Loaded 0 filterscripts.
+
+[09:42:06] Number of vehicle models: 1
+[09:42:20] [connection] 127.0.0.1:51208 requests connection cookie.
+[09:42:21] [connection] incoming connection: 127.0.0.1:51208 id: 0
+[09:42:21] [join] Smart_Noggano has joined the server (0:127.0.0.1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[10:04:05] filterscripts = ""  (string)
+[10:04:05] weburl = "www.sa-mp.com"  (string)
+[10:04:05] 
+[10:04:05] Server Plugins
+[10:04:05] --------------
+[10:04:05]  Loading plugin: mysql
+[10:04:05]  >> plugin.mysql: R41-4 successfully loaded.
+[10:04:05]   Loaded.
+[10:04:05]  Loading plugin: dc_cmd
+[10:04:05]   Daniel's CMD plugin v2.8
+[10:04:05]     (c) 2014 Daniel_Cortez
+[10:04:05] 	www.pro-pawn.ru
+[10:04:05]   Loaded.
+[10:04:05]  Loading plugin: streamer
+[10:04:05] 
+
+*** Streamer Plugin v2.9.2 by Incognito loaded ***
+
+[10:04:05]   Loaded.
+[10:04:05]  Loading plugin: sscanf
+[10:04:05] 
+
+[10:04:05]  ===============================
+
+[10:04:05]       sscanf plugin loaded.     
+
+[10:04:05]          Version:  2.8.1        
+
+[10:04:05]    (c) 2012 Alex "Y_Less" Cole  
+
+[10:04:05]  ===============================
+
+[10:04:05]   Loaded.
+[10:04:05]  Loaded 4 plugins.
+
+[10:04:05] 
+[10:04:05] Filterscripts
+[10:04:05] ---------------
+[10:04:05]   Loaded 0 filterscripts.
+
+[10:04:05] [Пикапы]: Все входы/выходы созданы за <-23 ms>
+[10:04:05] Number of vehicle models: 1
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[10:04:29] filterscripts = ""  (string)
+[10:04:29] weburl = "www.sa-mp.com"  (string)
+[10:04:29] 
+[10:04:29] Server Plugins
+[10:04:29] --------------
+[10:04:29]  Loading plugin: mysql
+[10:04:29]  >> plugin.mysql: R41-4 successfully loaded.
+[10:04:29]   Loaded.
+[10:04:29]  Loading plugin: dc_cmd
+[10:04:29]   Daniel's CMD plugin v2.8
+[10:04:29]     (c) 2014 Daniel_Cortez
+[10:04:29] 	www.pro-pawn.ru
+[10:04:29]   Loaded.
+[10:04:29]  Loading plugin: streamer
+[10:04:29] 
+
+*** Streamer Plugin v2.9.2 by Incognito loaded ***
+
+[10:04:29]   Loaded.
+[10:04:29]  Loading plugin: sscanf
+[10:04:29] 
+
+[10:04:29]  ===============================
+
+[10:04:29]       sscanf plugin loaded.     
+
+[10:04:29]          Version:  2.8.1        
+
+[10:04:29]    (c) 2012 Alex "Y_Less" Cole  
+
+[10:04:29]  ===============================
+
+[10:04:29]   Loaded.
+[10:04:29]  Loaded 4 plugins.
+
+[10:04:29] 
+[10:04:29] Filterscripts
+[10:04:29] ---------------
+[10:04:29]   Loaded 0 filterscripts.
+
+[10:04:29] [Пикапы]: Все входы/выходы созданы за <0 ms>
+[10:04:29] Number of vehicle models: 1
+[10:04:31] [connection] 127.0.0.1:51209 requests connection cookie.
+[10:04:32] [connection] incoming connection: 127.0.0.1:51209 id: 0
+[10:04:33] [join] Smart_Noggano has joined the server (0:127.0.0.1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[10:17:49] filterscripts = ""  (string)
+[10:17:49] weburl = "www.sa-mp.com"  (string)
+[10:17:49] 
+[10:17:49] Server Plugins
+[10:17:49] --------------
+[10:17:49]  Loading plugin: mysql
+[10:17:49]  >> plugin.mysql: R41-4 successfully loaded.
+[10:17:49]   Loaded.
+[10:17:49]  Loading plugin: dc_cmd
+[10:17:49]   Daniel's CMD plugin v2.8
+[10:17:49]     (c) 2014 Daniel_Cortez
+[10:17:49] 	www.pro-pawn.ru
+[10:17:49]   Loaded.
+[10:17:49]  Loading plugin: streamer
+[10:17:49] 
+
+*** Streamer Plugin v2.9.2 by Incognito loaded ***
+
+[10:17:49]   Loaded.
+[10:17:49]  Loading plugin: sscanf
+[10:17:49] 
+
+[10:17:49]  ===============================
+
+[10:17:49]       sscanf plugin loaded.     
+
+[10:17:49]          Version:  2.8.1        
+
+[10:17:49]    (c) 2012 Alex "Y_Less" Cole  
+
+[10:17:49]  ===============================
+
+[10:17:49]   Loaded.
+[10:17:49]  Loaded 4 plugins.
+
+[10:17:49] 
+[10:17:49] Filterscripts
+[10:17:49] ---------------
+[10:17:49]   Loaded 0 filterscripts.
+
+[10:17:49] [Пикапы]: Все входы/выходы созданы за <0 ms>
+[10:17:49] Number of vehicle models: 1
+[10:18:07] [connection] 127.0.0.1:60776 requests connection cookie.
+[10:18:08] [connection] incoming connection: 127.0.0.1:60776 id: 0
+[10:18:08] [join] Smart_Noggano has joined the server (0:127.0.0.1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[10:22:05] filterscripts = ""  (string)
+[10:22:05] weburl = "www.sa-mp.com"  (string)
+[10:22:05] 
+[10:22:05] Server Plugins
+[10:22:05] --------------
+[10:22:05]  Loading plugin: mysql
+[10:22:05]  >> plugin.mysql: R41-4 successfully loaded.
+[10:22:05]   Loaded.
+[10:22:05]  Loading plugin: dc_cmd
+[10:22:05]   Daniel's CMD plugin v2.8
+[10:22:05]     (c) 2014 Daniel_Cortez
+[10:22:05] 	www.pro-pawn.ru
+[10:22:05]   Loaded.
+[10:22:05]  Loading plugin: streamer
+[10:22:05] 
+
+*** Streamer Plugin v2.9.2 by Incognito loaded ***
+
+[10:22:05]   Loaded.
+[10:22:05]  Loading plugin: sscanf
+[10:22:05] 
+
+[10:22:05]  ===============================
+
+[10:22:05]       sscanf plugin loaded.     
+
+[10:22:05]          Version:  2.8.1        
+
+[10:22:05]    (c) 2012 Alex "Y_Less" Cole  
+
+[10:22:05]  ===============================
+
+[10:22:05]   Loaded.
+[10:22:05]  Loaded 4 plugins.
+
+[10:22:05] 
+[10:22:05] Filterscripts
+[10:22:05] ---------------
+[10:22:05]   Loaded 0 filterscripts.
+
+[10:22:05] [Пикапы]: Все входы/выходы созданы за <0 ms>
+[10:22:05] Number of vehicle models: 1
+[10:24:22] [connection] 127.0.0.1:62442 requests connection cookie.
+[10:24:23] [connection] incoming connection: 127.0.0.1:62442 id: 0
+[10:24:24] [join] Smart_Noggano has joined the server (0:127.0.0.1)
+[10:30:09] [part] Smart_Noggano has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[10:55:47] filterscripts = ""  (string)
+[10:55:47] weburl = "www.sa-mp.com"  (string)
+[10:55:47] 
+[10:55:47] Server Plugins
+[10:55:47] --------------
+[10:55:47]  Loading plugin: mysql
+[10:55:47]  >> plugin.mysql: R41-4 successfully loaded.
+[10:55:47]   Loaded.
+[10:55:47]  Loading plugin: dc_cmd
+[10:55:47]   Daniel's CMD plugin v2.8
+[10:55:47]     (c) 2014 Daniel_Cortez
+[10:55:47] 	www.pro-pawn.ru
+[10:55:47]   Loaded.
+[10:55:47]  Loading plugin: streamer
+[10:55:47] 
+
+*** Streamer Plugin v2.9.2 by Incognito loaded ***
+
+[10:55:47]   Loaded.
+[10:55:47]  Loading plugin: sscanf
+[10:55:47] 
+
+[10:55:47]  ===============================
+
+[10:55:47]       sscanf plugin loaded.     
+
+[10:55:47]          Version:  2.8.1        
+
+[10:55:47]    (c) 2012 Alex "Y_Less" Cole  
+
+[10:55:47]  ===============================
+
+[10:55:47]   Loaded.
+[10:55:47]  Loaded 4 plugins.
+
+[10:55:47] 
+[10:55:47] Filterscripts
+[10:55:47] ---------------
+[10:55:47]   Loaded 0 filterscripts.
+
+[10:55:47] [Пикапы]: Все входы/выходы созданы за <0 ms>
+[10:55:47] Number of vehicle models: 1
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[10:57:56] filterscripts = ""  (string)
+[10:57:56] weburl = "www.sa-mp.com"  (string)
+[10:57:56] 
+[10:57:56] Server Plugins
+[10:57:56] --------------
+[10:57:56]  Loading plugin: mysql
+[10:57:56]  >> plugin.mysql: R41-4 successfully loaded.
+[10:57:56]   Loaded.
+[10:57:56]  Loading plugin: dc_cmd
+[10:57:56]   Daniel's CMD plugin v2.8
+[10:57:56]     (c) 2014 Daniel_Cortez
+[10:57:56] 	www.pro-pawn.ru
+[10:57:56]   Loaded.
+[10:57:56]  Loading plugin: streamer
+[10:57:56] 
+
+*** Streamer Plugin v2.9.2 by Incognito loaded ***
+
+[10:57:56]   Loaded.
+[10:57:56]  Loading plugin: sscanf
+[10:57:56] 
+
+[10:57:56]  ===============================
+
+[10:57:56]       sscanf plugin loaded.     
+
+[10:57:56]          Version:  2.8.1        
+
+[10:57:56]    (c) 2012 Alex "Y_Less" Cole  
+
+[10:57:56]  ===============================
+
+[10:57:56]   Loaded.
+[10:57:56]  Loaded 4 plugins.
+
+[10:57:56] 
+[10:57:56] Filterscripts
+[10:57:56] ---------------
+[10:57:56]   Loaded 0 filterscripts.
+
+[10:57:56] [Пикапы]: Все входы/выходы созданы за <0 ms>
+[10:57:56] Number of vehicle models: 1
+[10:58:15] [connection] 127.0.0.1:54194 requests connection cookie.
+[10:58:16] [connection] incoming connection: 127.0.0.1:54194 id: 0
+[10:58:16] [join] Smart_Noggano has joined the server (0:127.0.0.1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[10:59:16] filterscripts = ""  (string)
+[10:59:16] weburl = "www.sa-mp.com"  (string)
+[10:59:16] 
+[10:59:16] Server Plugins
+[10:59:16] --------------
+[10:59:16]  Loading plugin: mysql
+[10:59:16]  >> plugin.mysql: R41-4 successfully loaded.
+[10:59:16]   Loaded.
+[10:59:16]  Loading plugin: dc_cmd
+[10:59:16]   Daniel's CMD plugin v2.8
+[10:59:16]     (c) 2014 Daniel_Cortez
+[10:59:16] 	www.pro-pawn.ru
+[10:59:16]   Loaded.
+[10:59:16]  Loading plugin: streamer
+[10:59:16] 
+
+*** Streamer Plugin v2.9.2 by Incognito loaded ***
+
+[10:59:16]   Loaded.
+[10:59:16]  Loading plugin: sscanf
+[10:59:16] 
+
+[10:59:16]  ===============================
+
+[10:59:16]       sscanf plugin loaded.     
+
+[10:59:16]          Version:  2.8.1        
+
+[10:59:16]    (c) 2012 Alex "Y_Less" Cole  
+
+[10:59:16]  ===============================
+
+[10:59:16]   Loaded.
+[10:59:16]  Loaded 4 plugins.
+
+[10:59:16] 
+[10:59:16] Filterscripts
+[10:59:16] ---------------
+[10:59:16]   Loaded 0 filterscripts.
+
+[10:59:16] [Пикапы]: Все входы/выходы созданы за <0 ms>
+[10:59:16] Number of vehicle models: 1
+[10:59:28] [connection] 127.0.0.1:54217 requests connection cookie.
+[10:59:29] [connection] incoming connection: 127.0.0.1:54217 id: 0
+[10:59:29] [join] Smart_Noggano has joined the server (0:127.0.0.1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[11:00:21] filterscripts = ""  (string)
+[11:00:21] weburl = "www.sa-mp.com"  (string)
+[11:00:21] 
+[11:00:21] Server Plugins
+[11:00:21] --------------
+[11:00:21]  Loading plugin: mysql
+[11:00:21]  >> plugin.mysql: R41-4 successfully loaded.
+[11:00:21]   Loaded.
+[11:00:21]  Loading plugin: dc_cmd
+[11:00:21]   Daniel's CMD plugin v2.8
+[11:00:21]     (c) 2014 Daniel_Cortez
+[11:00:21] 	www.pro-pawn.ru
+[11:00:21]   Loaded.
+[11:00:21]  Loading plugin: streamer
+[11:00:21] 
+
+*** Streamer Plugin v2.9.2 by Incognito loaded ***
+
+[11:00:21]   Loaded.
+[11:00:21]  Loading plugin: sscanf
+[11:00:21] 
+
+[11:00:21]  ===============================
+
+[11:00:21]       sscanf plugin loaded.     
+
+[11:00:21]          Version:  2.8.1        
+
+[11:00:21]    (c) 2012 Alex "Y_Less" Cole  
+
+[11:00:21]  ===============================
+
+[11:00:21]   Loaded.
+[11:00:21]  Loaded 4 plugins.
+
+[11:00:21] 
+[11:00:21] Filterscripts
+[11:00:21] ---------------
+[11:00:21]   Loaded 0 filterscripts.
+
+[11:00:21] [Пикапы]: Все входы/выходы созданы за <0 ms>
+[11:00:21] Number of vehicle models: 1
+[11:00:45] [connection] 127.0.0.1:49501 requests connection cookie.
+[11:00:46] [connection] incoming connection: 127.0.0.1:49501 id: 0
+[11:00:47] [join] Smart_Noggano has joined the server (0:127.0.0.1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[11:01:26] filterscripts = ""  (string)
+[11:01:26] weburl = "www.sa-mp.com"  (string)
+[11:01:26] 
+[11:01:26] Server Plugins
+[11:01:26] --------------
+[11:01:26]  Loading plugin: mysql
+[11:01:26]  >> plugin.mysql: R41-4 successfully loaded.
+[11:01:26]   Loaded.
+[11:01:26]  Loading plugin: dc_cmd
+[11:01:26]   Daniel's CMD plugin v2.8
+[11:01:26]     (c) 2014 Daniel_Cortez
+[11:01:26] 	www.pro-pawn.ru
+[11:01:26]   Loaded.
+[11:01:26]  Loading plugin: streamer
+[11:01:26] 
+
+*** Streamer Plugin v2.9.2 by Incognito loaded ***
+
+[11:01:26]   Loaded.
+[11:01:26]  Loading plugin: sscanf
+[11:01:26] 
+
+[11:01:26]  ===============================
+
+[11:01:26]       sscanf plugin loaded.     
+
+[11:01:26]          Version:  2.8.1        
+
+[11:01:26]    (c) 2012 Alex "Y_Less" Cole  
+
+[11:01:26]  ===============================
+
+[11:01:26]   Loaded.
+[11:01:26]  Loaded 4 plugins.
+
+[11:01:26] 
+[11:01:26] Filterscripts
+[11:01:26] ---------------
+[11:01:26]   Loaded 0 filterscripts.
+
+[11:01:26] [Пикапы]: Все входы/выходы созданы за <0 ms>
+[11:01:26] Number of vehicle models: 1
+[11:01:47] [connection] 127.0.0.1:49519 requests connection cookie.
+[11:01:48] [connection] incoming connection: 127.0.0.1:49519 id: 0
+[11:01:48] [join] Smart_Noggano has joined the server (0:127.0.0.1)
+[11:02:25] [part] Smart_Noggano has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[12:37:18] filterscripts = ""  (string)
+[12:37:18] weburl = "www.sa-mp.com"  (string)
+[12:37:18] 
+[12:37:18] Server Plugins
+[12:37:18] --------------
+[12:37:18]  Loading plugin: mysql
+[12:37:19]  >> plugin.mysql: R41-4 successfully loaded.
+[12:37:19]   Loaded.
+[12:37:19]  Loading plugin: dc_cmd
+[12:37:19]   Daniel's CMD plugin v2.8
+[12:37:19]     (c) 2014 Daniel_Cortez
+[12:37:19] 	www.pro-pawn.ru
+[12:37:19]   Loaded.
+[12:37:19]  Loading plugin: streamer
+[12:37:19] 
+
+*** Streamer Plugin v2.9.2 by Incognito loaded ***
+
+[12:37:19]   Loaded.
+[12:37:19]  Loading plugin: sscanf
+[12:37:19] 
+
+[12:37:19]  ===============================
+
+[12:37:19]       sscanf plugin loaded.     
+
+[12:37:19]          Version:  2.8.1        
+
+[12:37:19]    (c) 2012 Alex "Y_Less" Cole  
+
+[12:37:19]  ===============================
+
+[12:37:19]   Loaded.
+[12:37:19]  Loaded 4 plugins.
+
+[12:37:19] 
+[12:37:19] Filterscripts
+[12:37:19] ---------------
+[12:37:19]   Loaded 0 filterscripts.
+
+[12:37:19]  
+[12:37:19]  
+[12:37:19]  
+[12:37:19]  ======================================= 
+[12:37:19]  |                                     | 
+[12:37:19]  |        YSI version 3.09.0684        | 
+[12:37:19]  |        By Alex "Y_Less" Cole        | 
+[12:37:19]  |                                     | 
+[12:37:19]  ======================================= 
+[12:37:19]  
